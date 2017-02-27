@@ -7,10 +7,10 @@ library(ggplot2)
 library(leaflet)
 
 
-df <- data.frame(read.csv("/srv/shiny-server/inst_df.csv", header = TRUE, sep = ","))
+df <- data.frame(read.csv("/srv/shiny-server/dashboard_template/inst_df.csv", header = TRUE, sep = ","))
 df <- df[1:5, ]
-df2 <- data.frame(read.csv("/srv/shiny-server/inst_df3.csv", header = TRUE, sep = ","))
-latlng_all <- data.frame(read.csv("/srv/shiny-server/latlng_all.csv", header = TRUE, sep = ","))
+df2 <- data.frame(read.csv("/srv/shiny-server/dashboard_template/inst_df3.csv", header = TRUE, sep = ","))
+latlng_all <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_all.csv", header = TRUE, sep = ","))
 
 shinyServer(function(input, output, session) {
   
