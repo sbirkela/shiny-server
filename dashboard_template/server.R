@@ -7,15 +7,15 @@ library(ggplot2)
 library(leaflet)
 
 
-df <- data.frame(read.csv("inst_df.csv", header = TRUE, sep = ","))
+df <- data.frame(read.csv("/srv/shiny-server/dashboard_template/inst_df.csv", header = TRUE, sep = ","))
 df <- df[1:5, ]
-df2 <- data.frame(read.csv("inst_df3.csv", header = TRUE, sep = ","))
-latlng_all <- data.frame(read.csv("latlng_all.csv", header = TRUE, sep = ","))
-latlng_elect <- data.frame(read.csv("latlng_elect.csv", header = TRUE, sep = ","))
-latlng_inst <- data.frame(read.csv("latlng_inst.csv", header = TRUE, sep = ","))
-latlng_mech <- data.frame(read.csv("latlng_mech.csv", header = TRUE, sep = ","))
-latlng_pipe <- data.frame(read.csv("latlng_pipe.csv", header = TRUE, sep = ","))
-latlng_rigger <- data.frame(read.csv("latlng_rigger.csv", header = TRUE, sep = ","))
+df2 <- data.frame(read.csv("/srv/shiny-server/dashboard_template/inst_df3.csv", header = TRUE, sep = ","))
+latlng_all <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_all.csv", header = TRUE, sep = ","))
+latlng_elect <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_elect.csv", header = TRUE, sep = ","))
+latlng_inst <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_inst.csv", header = TRUE, sep = ","))
+latlng_mech <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_mech.csv", header = TRUE, sep = ","))
+latlng_pipe <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_pipe.csv", header = TRUE, sep = ","))
+latlng_rigger <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latlng_rigger.csv", header = TRUE, sep = ","))
 
 
 
