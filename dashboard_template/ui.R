@@ -49,4 +49,4 @@ body <- dashboardBody(
 )
 )
 
-dashboardPage(header, sidebar, body)
+ui <- dashboardPage(header, sidebar, body)
