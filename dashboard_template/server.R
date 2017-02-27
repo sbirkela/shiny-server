@@ -1,9 +1,9 @@
 library(shiny)
 library(dplyr)
 library(ggplot2)
-#library(rgdal)
-#library(RColorBrewer)
-#library(googleVis)
+library(rgdal)
+library(RColorBrewer)
+library(googleVis)
 library(leaflet)
 
 
