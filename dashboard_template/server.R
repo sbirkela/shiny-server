@@ -100,4 +100,4 @@ output$app_map <- renderLeaflet({
   })
   
 })
-runApp("/srv/shiny-server/dashboard_template")
+#runApp("/srv/shiny-server/dashboard_template")
