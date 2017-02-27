@@ -3,10 +3,10 @@ library(shinydashboard)
 library(shinyBS)
 library(dplyr)
 library(ggplot2)
-#library(rgdal)
+library(rgdal)
 library(RColorBrewer)
 library(googleVis)
-#library(leaflet)
+library(leaflet)
 
 
 
