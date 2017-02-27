@@ -9,8 +9,6 @@ library(googleVis)
 library(leaflet)
 
 
-
-
 header <- dashboardHeader(title = "Hiring Cycle Analytics")
 
 sidebar <- dashboardSidebar(
