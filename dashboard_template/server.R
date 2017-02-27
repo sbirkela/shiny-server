@@ -81,22 +81,6 @@ shinyServer(function(input, output, session) {
       scale_fill_discrete(name = "Qualified Applicant")
   })
   # add leaflet map
-  output$app_map <- renderLeaflet({
-    latlng_all %>%
-      leaflet() %>%
-      setView(lng = -118.2000, lat = 33.8000, zoom = 7) %>%
-      addTiles() %>% 
-      addCircleMarkers(data=latlng_all,radius=1,group="All", color = "Blue") %>%
-      addCircleMarkers(data=latlng_elect,radius=1,group="Electricians", color = "Blue") %>%
-      addCircleMarkers(data=latlng_inst,radius=1,group="Instrument Technicians", color = "Blue") %>%
-      addCircleMarkers(data=latlng_mech,radius=1,group="Mach/Mill/Mech", color = "Blue") %>%
-      addCircleMarkers(data=latlng_pipe,radius=1,group="Pipefitter", color = "Blue") %>%
-      addCircleMarkers(data=latlng_rigger,radius=1,group="Rigger", color = "Blue") %>%
-      addLayersControl(
-        baseGroups = c("All", "Electricians", "Instrument Technicians", "Mach/Mill/Mech", "Pipefitter", "Rigger"),
-        options = layersControlOptions(collapsed=FALSE)
-      )  
-    
-  })
+
   
 })
