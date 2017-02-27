@@ -19,7 +19,7 @@ latlng_rigger <- data.frame(read.csv("/srv/shiny-server/dashboard_template/latln
 
 
 
-shinyServer(function(input, output, session) {
+shinyServer(function(input, output) {
   
   # icons
   
