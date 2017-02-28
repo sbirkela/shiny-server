@@ -48,5 +48,6 @@ body <- dashboardBody(
           box(width = 12, leafletOutput("app_map")))
 )
 )
+shinyUI(dashboardPage(header, sidebar, body))
 
-ui <- dashboardPage(header, sidebar, body)
+#ui <- dashboardPage(header, sidebar, body)
