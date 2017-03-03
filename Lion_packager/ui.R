@@ -12,8 +12,8 @@ header <- dashboardHeader(title = "Hiring Cycle Analytics")
 sidebar <- dashboardSidebar(
   sidebarMenu(
     menuItem("Application Activity", icon = icon("dashboard"), tabName = "activity"),
-    menuItem("Recruiting Analysis", icon = icon("dashboard"), tabName = "background"),
-    menuItem("Applicant Location Map", icon = icon("globe"), tabName = "map"),
+    menuItem("Candidate Background", icon = icon("bar-chart"), tabName = "background"),
+    menuItem("Applicant Address Map", icon = icon("globe"), tabName = "map"),
     
     
     selectInput("job_input", label = "Select a hiring cycle",
