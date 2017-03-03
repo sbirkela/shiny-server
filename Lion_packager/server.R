@@ -5,7 +5,7 @@ library(RColorBrewer)
 library(googleVis)
 library(leaflet)
 
-first_app_day <- data.frame(read.csv("/srv/shiny-server/Lion_packager/first_app_day.csv", header = TRUE, sep = ","))
+time_update <- data.frame(read.csv("/srv/shiny-server/Lion_packager/time_update.csv", header = TRUE, sep = ","))
 n_jobseekers <- data.frame(read.csv("/srv/shiny-server/Lion_packager/job_seekers.csv", header = TRUE, sep = ","))
 n_applicants <- data.frame(read.csv("/srv/shiny-server/Lion_packager/n_applicants.csv", header = TRUE, sep = ","))
 n_qualified_apps <- data.frame(read.csv("/srv/shiny-server/Lion_packager/n_qualified_apps.csv", header = TRUE, sep = ","))
