@@ -5,15 +5,15 @@ library(RColorBrewer)
 library(googleVis)
 library(leaflet)
 
-time_update <- data.frame(read.csv("/srv/shiny-server/Lion_packager/time_update.csv", header = TRUE, sep = ","))
-n_jobseekers <- data.frame(read.csv("/srv/shiny-server/Lion_packager/job_seekers.csv", header = TRUE, sep = ","))
-n_applicants <- data.frame(read.csv("/srv/shiny-server/Lion_packager/n_applicants.csv", header = TRUE, sep = ","))
-n_qualified_apps <- data.frame(read.csv("/srv/shiny-server/Lion_packager/n_qualified_apps.csv", header = TRUE, sep = ","))
-df_time <- data.frame(read.csv("/srv/shiny-server/Lion_packager/df_time.csv", header = TRUE, sep = ","))
-hear_sorted <- data.frame(read.csv("/srv/shiny-server/Lion_packager/hear_sorted.csv", header = TRUE, sep = ","))
-educ_sorted <- data.frame(read.csv("/srv/shiny-server/Lion_packager/educ_sorted.csv", header = TRUE, sep = ","))
-ind_background_graph <- data.frame(read.csv("/srv/shiny-server/Lion_packager/ind_background_graph.csv", header = TRUE, sep = ","))
-latlng_apps <- data.frame(read.csv("/srv/shiny-server/Lion_packager/latlng_apps.csv", header = TRUE, sep = ","))
+time_update <- data.frame(read.csv("time_update.csv", header = TRUE, sep = ","))
+n_jobseekers <- data.frame(read.csv("job_seekers.csv", header = TRUE, sep = ","))
+n_applicants <- data.frame(read.csv("n_applicants.csv", header = TRUE, sep = ","))
+n_qualified_apps <- data.frame(read.csv("n_qualified_apps.csv", header = TRUE, sep = ","))
+df_time <- data.frame(read.csv("df_time.csv", header = TRUE, sep = ","))
+hear_sorted <- data.frame(read.csv("hear_sorted.csv", header = TRUE, sep = ","))
+educ_sorted <- data.frame(read.csv("educ_sorted.csv", header = TRUE, sep = ","))
+ind_background_graph <- data.frame(read.csv("ind_background_graph.csv", header = TRUE, sep = ","))
+latlng_apps <- data.frame(read.csv("latlng_apps.csv", header = TRUE, sep = ","))
 
 
 shinyServer(function(input, output) {
@@ -60,7 +60,7 @@ shinyServer(function(input, output) {
         x = "Days Job Has Been Posted", 
         y = "Application Responses"
       ) +
-      theme(plot.title = element_text(hjust = 0.5), axis.text=element_text(size=11), axis.title=element_text(size=14))
+      theme(plot.title = element_text(hjust = 0.5, size = 18), axis.text=element_text(size=12), axis.title=element_text(size=16))
   })
   
   output$how_hear <- renderPlot({
@@ -73,7 +73,7 @@ shinyServer(function(input, output) {
         x = "", 
         y = "Number of Application Responses"
       ) + coord_flip() +
-      theme(plot.title = element_text(hjust = 0.5), axis.text=element_text(size=11), axis.title=element_text(size=14))
+      theme(plot.title = element_text(hjust = 0.5, size = 18), axis.text=element_text(size=12), axis.title=element_text(size=16))
   })
   
   output$education <- renderPlot({
@@ -86,7 +86,7 @@ shinyServer(function(input, output) {
         x = "", 
         y = "Number of Applicants"
       ) + coord_flip() +
-      theme(plot.title = element_text(hjust = 0.5), axis.text=element_text(size=11), axis.title=element_text(size=14))
+      theme(plot.title = element_text(hjust = 0.5, size = 18), axis.text=element_text(size=12), axis.title=element_text(size=16))
   })
   
   output$experience <- renderPlot({
@@ -100,7 +100,7 @@ shinyServer(function(input, output) {
         y = "Number of Applicants",
         caption = "Note that each applicant may have multiple experience categories"
       ) + coord_flip() +
-      theme(plot.title = element_text(hjust = 0.5), axis.text=element_text(size=11), axis.title=element_text(size=14))
+      theme(plot.title = element_text(hjust = 0.5, size = 18), axis.text=element_text(size=12), axis.title=element_text(size=16))
   })
   
   
