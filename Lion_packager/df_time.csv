@@ -1,200 +1,227 @@
-"Respondent","Applied_Time","ApplicantID","how_hear","Manufacturing","Industrial","warehouse","construction","other_ind","Applicant","app_day","day_bin"
-1,2017-02-09 17:47:35,"M8498","Personal referral","Manufacturing",NA,NA,NA,NA,"Yes",0.741377314814815,"1"
-2,2017-02-09 22:39:04,"D7718","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",0.943796296299056,"1"
-3,2017-02-10 08:32:40,"F6097","Lion Elastomers website or mailing",NA,NA,NA,"Construction/manual labor",NA,"Yes",1.35603009258983,"2"
-4,2017-02-10 10:09:37,"W9056","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",1.42335648147872,"2"
-5,2017-02-10 11:05:24,"T6879","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",1.46208333333333,"2"
-6,2017-02-10 11:55:29,"H3051","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",1.49686342592869,"2"
-9,2017-02-10 21:30:48,"H1348","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",1.89638888888889,"2"
-10,2017-02-10 21:52:19,NA,"Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",1.91133101852128,"2"
-11,2017-02-11 09:59:34,"G2250","Don't remember","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",2.41636574074074,"3"
-12,2017-02-11 16:49:38,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",2.70113425925926,"3"
-13,2017-02-11 19:13:33,"H8953","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",2.80108796295744,"3"
-14,2017-02-11 23:57:22,"H1249","Lion Elastomers employee","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",2.99817129629906,"3"
-15,2017-02-12 04:34:24,"S1662","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",3.19055555555556,"4"
-16,2017-02-12 13:01:17,NA,"Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",3.54255787037313,"4"
-17,2017-02-12 14:13:02,"D5405","Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",3.59239583333057,"4"
-18,2017-02-12 19:46:19,"G4135","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",3.82383101851852,"4"
-19,2017-02-12 23:26:18,"N7627","Lion Elastomers employee",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",3.97659722222222,"4"
-20,2017-02-13 09:00:57,"P3858","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.37567129629354,"5"
-21,2017-02-13 10:47:16,"T9095","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",4.4494907407435,"5"
-22,2017-02-13 11:41:13,"D4539","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.48695601851852,"5"
-23,2017-02-13 12:23:02,"P4295","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.51600694443893,"5"
-24,2017-02-13 12:52:28,"V9313","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.5364351851907,"5"
-25,2017-02-13 15:12:54,"W6755","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.63395833333333,"5"
-26,2017-02-13 15:34:34,"J5495","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",4.64900462963239,"5"
-27,2017-02-13 15:56:58,"A8133","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.66456018518519,"5"
-28,2017-02-13 16:05:29,"M8386","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.67047453703704,"5"
-29,2017-02-13 17:56:20,"K7759","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",4.74745370370646,"5"
-30,2017-02-13 18:05:20,"F2116","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.7537037037037,"5"
-31,2017-02-13 19:12:13,"W1780","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.80015046296572,"5"
-32,2017-02-13 23:21:35,"V8715","Lion Elastomers employee",NA,NA,NA,"Construction/manual labor",NA,"Yes",4.97332175925926,"5"
-33,2017-02-14 00:44:53,"B7845","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.03116898148424,"6"
-34,2017-02-14 03:38:50,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",5.15196759259535,"6"
-35,2017-02-14 06:12:34,"C8809","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",5.25873842592317,"6"
-36,2017-02-14 11:12:39,"L0053","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.46711805556107,"6"
-37,2017-02-14 11:50:46,"Y1723","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.49359953703152,"6"
-38,2017-02-14 12:48:33,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",5.53371527778054,"6"
-39,2017-02-14 12:54:57,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"No",5.53815972222222,"6"
-40,2017-02-14 15:57:50,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","No",5.66517361110835,"6"
-41,2017-02-14 16:04:19,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","No",5.66967592592041,"6"
-42,2017-02-15 00:39:16,"B4814","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",6.02726851851852,"7"
-43,2017-02-15 11:17:39,"J7701","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",6.47060185184909,"7"
-44,2017-02-15 17:39:12,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",6.73556712962411,"7"
-45,2017-02-15 19:53:49,"F6608","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",6.82905092592317,"7"
-46,2017-02-16 10:45:10,"H7776","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",7.44804398147872,"8"
-47,2017-02-16 12:01:13,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.50084490740741,"8"
-48,2017-02-16 12:04:29,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.50311342592593,"8"
-49,2017-02-16 12:17:56,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",7.5124537037037,"8"
-50,2017-02-16 13:12:42,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.55049768517967,"8"
-51,2017-02-16 14:12:49,"S2909","Social media (e.g. Facebook or Twitter)",NA,"Industrial",NA,NA,NA,"Yes",7.59224537036761,"8"
-52,2017-02-16 16:51:04,"J7407","Employment agency",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.70212962962963,"8"
-53,2017-02-16 17:30:01,"L4266","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.7291898148093,"8"
-54,2017-02-16 17:32:10,"L1213","Employment agency",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",7.7306712962963,"8"
-55,2017-02-16 19:23:56,"D7677","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.80828703704256,"8"
-56,2017-02-16 20:07:31,"A7950","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.8385648148093,"8"
-57,2017-02-16 20:27:08,"L2604","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.85217592593145,"8"
-58,2017-02-16 21:03:33,"F3562","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",7.87747685184909,"8"
-59,2017-02-17 11:31:49,"C0054","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",8.4804282407435,"9"
-60,2017-02-17 11:53:38,"R0132","Online job site",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",8.49559027777226,"9"
-61,2017-02-17 16:00:02,"S8773","Lion Elastomers employee",NA,"Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",8.66670138888613,"9"
-62,2017-02-17 17:15:15,"P5117","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",8.71892361111663,"9"
-63,2017-02-17 21:07:41,"B9270","Lion Elastomers website or mailing",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",8.88034722221946,"9"
-64,2017-02-18 12:10:11,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",9.50708333333057,"10"
-65,2017-02-18 14:50:11,"B0840","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",9.61818287037037,"10"
-66,2017-02-18 18:22:30,"L4344","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",9.76563657406856,"10"
-67,2017-02-18 23:45:34,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",9.98998842592041,"10"
-68,2017-02-19 02:13:18,"H1226","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",10.0925694444444,"11"
-69,2017-02-19 05:09:21,"B7508","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",10.2148263888889,"11"
-70,2017-02-19 16:07:06,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",10.6715972222222,"11"
-71,2017-02-19 18:13:35,"C9572","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",10.7594328703704,"11"
-72,2017-02-20 10:55:31,"F4850","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.4552314814787,"12"
-73,2017-02-20 12:35:04,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",11.5243634259232,"12"
-74,2017-02-20 12:42:11,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",11.5293055555528,"12"
-75,2017-02-20 14:27:21,"R7752","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",11.6023263888916,"12"
-76,2017-02-20 17:09:32,"S3482","I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",11.7149537037037,"12"
-78,2017-02-20 18:52:38,"C2338","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.7865509259287,"12"
-79,2017-02-20 21:59:45,"B4838","Lion Elastomers website or mailing",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.9165046296269,"12"
-80,2017-02-20 22:18:26,"W9694","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.9294791666611,"12"
-81,2017-02-21 15:10:27,NA,"Social media (e.g. Facebook or Twitter)",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",12.6322685185158,"13"
-82,2017-02-21 16:39:14,"V4644","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",12.693912037037,"13"
-83,2017-02-21 17:40:06,"W1023","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",12.7361805555556,"13"
-84,2017-02-21 19:16:28,"S2640","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",12.8031134259204,"13"
-85,2017-02-21 19:40:10,"H0584","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",12.8195601851852,"13"
-86,2017-02-21 20:25:21,"B6737","Texas Workforce Commission",NA,"Industrial",NA,NA,"Other directly related industry (please specify): ","Yes",12.8509490740686,"13"
-87,2017-02-21 21:45:35,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"No",12.9066666666611,"13"
-88,2017-02-21 22:19:50,"A3925","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",12.9304398148148,"13"
-89,2017-02-21 23:59:09,"K5770","Social media (e.g. Facebook or Twitter)",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",12.9994212962908,"13"
-90,2017-02-22 01:58:39,"H5821","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",13.0823958333361,"14"
-91,2017-02-22 09:58:15,"S1690","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4154513888944,"14"
-92,2017-02-22 10:30:38,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",13.4379513888861,"14"
-93,2017-02-22 10:38:09,"K8061","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4431597222222,"14"
-94,2017-02-22 11:23:38,"G7692","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4747453703759,"14"
-95,2017-02-22 11:26:14,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",13.4765509259314,"14"
-97,2017-02-22 16:11:13,"W5350","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.6744560185185,"14"
-98,2017-02-22 18:22:39,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",13.7657291666694,"14"
-99,2017-02-22 22:21:34,"A0732","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.9316435185185,"14"
-101,2017-02-23 10:15:59,"H2367","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.4277662037065,"15"
-102,2017-02-23 11:50:46,"W2451","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.493587962963,"15"
-103,2017-02-23 12:26:51,"F2889","Employment agency","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.5186458333333,"15"
-104,2017-02-23 12:41:55,"M8432","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.5291087962991,"15"
-105,2017-02-23 13:46:27,"M9703","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",14.5739351851797,"15"
-106,2017-02-23 13:55:03,"G5301","Employment agency",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.5799074074019,"15"
-107,2017-02-23 16:00:39,"W1372","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.6671180555556,"15"
-108,2017-02-23 16:25:15,"N7266","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.6842013888889,"15"
-109,2017-02-23 16:33:49,"S1248","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.6901620370343,"15"
-110,2017-02-23 17:41:08,"S2417","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",14.7368981481481,"15"
-111,2017-02-24 00:58:09,"C4757","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",15.0403819444472,"16"
-112,2017-02-24 12:54:04,"M7498","Lion Elastomers website or mailing","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",15.5375578703676,"16"
-113,2017-02-25 10:22:05,"H4141","Social media (e.g. Facebook or Twitter)",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",16.4320023148176,"17"
-114,2017-02-25 13:56:57,"R9254","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",16.5812268518491,"17"
-115,2017-02-25 18:33:40,"D7925","Lion Elastomers website or mailing",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",16.7733796296296,"17"
-116,2017-02-25 22:13:55,"L7805","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",16.9263425925898,"17"
-117,2017-02-26 13:06:57,"T8117","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",17.5464930555611,"18"
-118,2017-02-26 20:17:39,"S9982","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",17.8455902777778,"18"
-119,2017-02-27 11:33:02,"M5482","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",18.4812847222195,"19"
-120,2017-02-27 11:34:11,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",18.4820717592593,"19"
-121,2017-02-27 13:06:42,"W9963","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",18.5463310185158,"19"
-122,2017-02-27 21:24:43,"S5294","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",18.8921643518546,"19"
-123,2017-02-27 22:58:48,"R4878","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",18.9575000000028,"19"
-124,2017-02-28 10:00:35,"G9805","Employment agency","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",19.4170717592648,"20"
-125,2017-02-28 12:05:50,NA,"Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",19.5040624999972,"20"
-126,2017-02-28 16:31:58,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",19.6888773148093,"20"
-127,2017-02-28 23:49:34,"C7126","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",19.9927546296324,"20"
-128,2017-03-01 11:50:04,"E5221","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",20.4931018518546,"21"
-129,2017-03-01 12:14:54,"B7298","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",20.510347222225,"21"
-130,2017-03-01 19:20:27,"J2646","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",20.8058796296241,"21"
-131,2017-03-01 23:39:47,"E4070","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",20.9859606481481,"21"
-132,2017-03-02 03:10:05,"K1506","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.1320138888834,"22"
-133,2017-03-02 11:11:30,"C5056","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",21.4663194444444,"22"
-134,2017-03-02 12:53:15,"M4267","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.5369791666667,"22"
-135,2017-03-02 14:01:29,"N4235","Online job site",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",21.5843749999972,"22"
-136,2017-03-02 14:31:01,"H7263","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",21.6048726851879,"22"
-137,2017-03-02 15:47:04,"M4370","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",21.6576851851852,"22"
-138,2017-03-02 21:09:06,"F9366","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.8813194444444,"22"
-139,2017-03-03 04:05:24,"R1285","Lion Elastomers employee",NA,NA,NA,"Construction/manual labor",NA,"Yes",22.1704166666667,"23"
-140,2017-03-03 12:14:48,"M4721","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",22.5102777777805,"23"
-141,2017-03-03 12:17:46,"B3831","Lion Elastomers employee",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",22.5123379629657,"23"
-142,2017-03-03 15:44:55,"N5173","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,"Other directly related industry (please specify): ","Yes",22.6561921296296,"23"
-143,2017-03-03 23:56:55,"S5702","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",22.9978703703676,"23"
-144,2017-03-04 17:59:21,NA,"Personal referral",NA,NA,NA,"Construction/manual labor",NA,"No",23.7495486111139,"24"
-145,2017-03-05 10:54:23,"G6034","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",24.4544328703704,"25"
-146,2017-03-05 10:56:09,"W2100","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",24.455659722225,"25"
-147,2017-03-05 23:59:47,"D5029","Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",24.999849537037,"25"
-148,2017-03-06 11:24:49,"G0141","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.4755787036982,"26"
-149,2017-03-06 16:51:17,"C2670","Online job site",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.7022800925926,"26"
-150,2017-03-06 16:56:50,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",25.7061342592648,"26"
-151,2017-03-06 17:19:42,"B2731","Texas Workforce Commission","Manufacturing","Industrial",NA,NA,NA,"Yes",25.7220138888889,"26"
-152,2017-03-06 18:08:54,"A6352","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,"Other directly related industry (please specify): ","Yes",25.7561805555611,"26"
-153,2017-03-06 18:39:13,"B0026","I am currently an employee or contractor at Lion Elastomers","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.7772453703649,"26"
-154,2017-03-06 18:43:59,"G3325","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",25.7805439814842,"26"
-155,2017-03-06 20:54:22,"A5614","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.8710995370343,"26"
-156,2017-03-07 09:22:41,"H4326","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.3907523148148,"27"
-157,2017-03-07 09:36:52,"M1575","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.4006018518546,"27"
-158,2017-03-07 10:57:57,"G9025","Personal referral",NA,NA,NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",26.4569097222277,"27"
-159,2017-03-07 11:03:35,"W1907","Don't remember",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",26.460821759262,"27"
-160,2017-03-07 11:43:26,"B7735","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.4884953703731,"27"
-161,2017-03-07 13:32:42,"G9151","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.5643750000028,"27"
-162,2017-03-07 13:43:22,"E6587","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",26.5717939814787,"27"
-163,2017-03-07 15:08:57,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",26.6312152777833,"27"
-164,2017-03-07 16:02:53,NA,"Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",26.66868055555,"27"
-165,2017-03-07 18:19:03,"C2728","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.7632291666667,"27"
-166,2017-03-07 20:03:06,"M6958","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.8354861111139,"27"
-167,2017-03-07 21:23:46,"C4576","Texas Workforce Commission",NA,"Industrial",NA,NA,NA,"Yes",26.8915162037009,"27"
-168,2017-03-07 21:50:12,"P8057","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.9098726851797,"27"
-169,2017-03-07 22:04:25,"W2391","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",26.9197337962991,"27"
-170,2017-03-07 23:22:47,"D7833","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",26.9741550925981,"27"
-171,2017-03-08 09:55:08,"B7584","Personal referral",NA,NA,NA,"Construction/manual labor",NA,"Yes",27.4132986111084,"28"
-172,2017-03-08 11:31:23,"S6005","Texas Workforce Commission","Manufacturing",NA,NA,"Construction/manual labor",NA,"Yes",27.4801273148176,"28"
-173,2017-03-08 12:01:26,"S6058","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5009953703704,"28"
-174,2017-03-08 12:02:20,"S9034","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5016203703704,"28"
-175,2017-03-08 12:37:53,"H4190","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5263078703731,"28"
-176,2017-03-08 13:00:16,"H4516","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.5418518518574,"28"
-177,2017-03-08 13:10:44,"W7625","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.5491319444417,"28"
-178,2017-03-08 14:04:31,"M2997","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5864699074074,"28"
-179,2017-03-08 14:29:34,"H8945","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.6038657407407,"28"
-180,2017-03-08 14:54:25,"T0170","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.6211226851879,"28"
-181,2017-03-08 15:07:35,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",27.6302662037065,"28"
-182,2017-03-08 18:22:17,"G7521","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",27.7654861111084,"28"
-183,2017-03-08 19:01:28,"S3406","Lion Elastomers website or mailing","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.7926967592565,"28"
-184,2017-03-08 21:28:20,"W1848","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.8946759259259,"28"
-185,2017-03-08 22:39:07,"W8558","Lion Elastomers employee",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",27.9438425925898,"28"
-186,2017-03-09 05:28:52,"B3307","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.2283912037009,"29"
-187,2017-03-09 11:02:54,"J7726","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.4603587962908,"29"
-188,2017-03-09 14:16:19,"P8866","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.5946643518546,"29"
-189,2017-03-09 15:31:53,"J7843","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.647152777775,"29"
-190,2017-03-09 15:34:58,"G3779","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.6492824074074,"29"
-191,2017-03-09 15:42:51,"S1346","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",28.6547569444444,"29"
-192,2017-03-09 17:27:01,"J0050","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.7270949074074,"29"
-193,2017-03-09 19:25:04,"B9678","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",28.8090856481426,"29"
-194,2017-03-09 21:01:57,"G9893","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.8763541666694,"29"
-195,2017-03-10 10:33:49,"W4681","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",29.440150462963,"30"
-196,2017-03-10 12:48:41,"N5358","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",29.5338078703704,"30"
-197,2017-03-10 16:17:54,"G3252","I am currently an employee or contractor at Lion Elastomers",NA,NA,NA,"Construction/manual labor",NA,"Yes",29.6791087962908,"30"
-198,2017-03-11 16:31:02,NA,"I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",30.6882175925926,"31"
-199,2017-03-12 22:15:01,"R7787","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",31.9270949074129,"32"
-200,2017-03-13 02:02:47,"T5770","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",32.0852662037065,"33"
-201,2017-03-13 02:27:24,"N8761","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",32.1023611111166,"33"
-202,2017-03-13 06:42:44,"M5062","I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",32.2796874999972,"33"
-203,2017-03-13 11:24:07,"Y1202","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",32.4750810185213,"33"
-204,2017-03-13 14:24:46,"K7507","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",32.600543981476,"33"
+"Respondent","Applied_Time","ApplicantID","how_hear","Manufacturing","Industrial","warehouse","construction","other_ind","Applicant","app_day"
+1,2017-02-09 17:47:35,"M8498","Personal referral","Manufacturing",NA,NA,NA,NA,"Yes",0.741377314814815
+2,2017-02-09 22:39:04,"D7718","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",0.943796296299056
+3,2017-02-10 08:32:40,"F6097","Lion Elastomers website or mailing",NA,NA,NA,"Construction/manual labor",NA,"Yes",1.35603009258983
+4,2017-02-10 10:09:37,"W9056","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",1.42335648147872
+5,2017-02-10 11:05:24,"T6879","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",1.46208333333333
+6,2017-02-10 11:55:29,"H3051","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",1.49686342592869
+7,2017-02-10 12:57:11,"W8558","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",1.53971064814815
+8,2017-02-10 17:23:07,"S1248","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",1.72438657407407
+9,2017-02-10 21:30:48,"H1348","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",1.89638888888889
+10,2017-02-10 21:52:19,NA,"Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",1.91133101852128
+11,2017-02-11 09:59:34,"G2250","Don't remember","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",2.41636574074074
+12,2017-02-11 16:49:38,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",2.70113425925926
+13,2017-02-11 19:13:33,"H8953","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",2.80108796295744
+14,2017-02-11 23:57:22,"H1249","Lion Elastomers employee","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",2.99817129629906
+15,2017-02-12 04:34:24,"S1662","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",3.19055555555556
+16,2017-02-12 13:01:17,NA,"Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",3.54255787037313
+17,2017-02-12 14:13:02,"D5405","Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",3.59239583333057
+18,2017-02-12 19:46:19,"G4135","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",3.82383101851852
+19,2017-02-12 23:26:18,"N7627","Lion Elastomers employee",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",3.97659722222222
+20,2017-02-13 09:00:57,"P3858","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.37567129629354
+21,2017-02-13 10:47:16,"T9095","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",4.4494907407435
+22,2017-02-13 11:41:13,"D4539","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.48695601851852
+23,2017-02-13 12:23:02,"P4295","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.51600694443893
+24,2017-02-13 12:52:28,"V9313","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.5364351851907
+25,2017-02-13 15:12:54,"W6755","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.63395833333333
+26,2017-02-13 15:34:34,"J5495","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",4.64900462963239
+27,2017-02-13 15:56:58,"A8133","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.66456018518519
+28,2017-02-13 16:05:29,"M8386","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.67047453703704
+29,2017-02-13 17:56:20,"K7759","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",4.74745370370646
+30,2017-02-13 18:05:20,"F2116","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.7537037037037
+31,2017-02-13 19:12:13,"W1780","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",4.80015046296572
+32,2017-02-13 23:21:35,"V8715","Lion Elastomers employee",NA,NA,NA,"Construction/manual labor",NA,"Yes",4.97332175925926
+33,2017-02-14 00:44:53,"B7845","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.03116898148424
+34,2017-02-14 03:38:50,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",5.15196759259535
+35,2017-02-14 06:12:34,"C8809","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",5.25873842592317
+36,2017-02-14 11:12:39,"L0053","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.46711805556107
+37,2017-02-14 11:50:46,"Y1723","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",5.49359953703152
+38,2017-02-14 12:48:33,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",5.53371527778054
+39,2017-02-14 12:54:57,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"No",5.53815972222222
+40,2017-02-14 15:57:50,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","No",5.66517361110835
+41,2017-02-14 16:04:19,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","No",5.66967592592041
+42,2017-02-15 00:39:16,"B4814","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",6.02726851851852
+43,2017-02-15 11:17:39,"J7701","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",6.47060185184909
+44,2017-02-15 17:39:12,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",6.73556712962411
+45,2017-02-15 19:53:49,"F6608","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",6.82905092592317
+46,2017-02-16 10:45:10,"H7776","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",7.44804398147872
+47,2017-02-16 12:01:13,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.50084490740741
+48,2017-02-16 12:04:29,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.50311342592593
+49,2017-02-16 12:17:56,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",7.5124537037037
+50,2017-02-16 13:12:42,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",7.55049768517967
+51,2017-02-16 14:12:49,"S2909","Social media (e.g. Facebook or Twitter)",NA,"Industrial",NA,NA,NA,"Yes",7.59224537036761
+52,2017-02-16 16:51:04,"J7407","Employment agency",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.70212962962963
+53,2017-02-16 17:30:01,"L4266","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.7291898148093
+54,2017-02-16 17:32:10,"L1213","Employment agency",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",7.7306712962963
+55,2017-02-16 19:23:56,"D7677","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.80828703704256
+56,2017-02-16 20:07:31,"A7950","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.8385648148093
+57,2017-02-16 20:27:08,"L2604","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",7.85217592593145
+58,2017-02-16 21:03:33,"F3562","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",7.87747685184909
+59,2017-02-17 11:31:49,"C0054","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",8.4804282407435
+60,2017-02-17 11:53:38,"R0132","Online job site",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",8.49559027777226
+61,2017-02-17 16:00:02,"S8773","Lion Elastomers employee",NA,"Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",8.66670138888613
+62,2017-02-17 17:15:15,"P5117","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",8.71892361111663
+63,2017-02-17 21:07:41,"B9270","Lion Elastomers website or mailing",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",8.88034722221946
+64,2017-02-18 12:10:11,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",9.50708333333057
+65,2017-02-18 14:50:11,"B0840","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",9.61818287037037
+66,2017-02-18 18:22:30,"L4344","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",9.76563657406856
+67,2017-02-18 23:45:34,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",9.98998842592041
+68,2017-02-19 02:13:18,"H1226","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",10.0925694444444
+69,2017-02-19 05:09:21,"B7508","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",10.2148263888889
+70,2017-02-19 16:07:06,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",10.6715972222222
+71,2017-02-19 18:13:35,"C9572","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",10.7594328703704
+72,2017-02-20 10:55:31,"F4850","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.4552314814787
+73,2017-02-20 12:35:04,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",11.5243634259232
+74,2017-02-20 12:42:11,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",11.5293055555528
+75,2017-02-20 14:27:21,"R7752","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",11.6023263888916
+76,2017-02-20 17:09:32,"S3482","I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",11.7149537037037
+77,2017-02-20 18:32:49,"S5702","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.7727893518519
+78,2017-02-20 18:52:38,"C2338","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.7865509259287
+79,2017-02-20 21:59:45,"B4838","Lion Elastomers website or mailing",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.9165046296269
+80,2017-02-20 22:18:26,"W9694","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",11.9294791666611
+81,2017-02-21 15:10:27,NA,"Social media (e.g. Facebook or Twitter)",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",12.6322685185158
+82,2017-02-21 16:39:14,"V4644","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",12.693912037037
+83,2017-02-21 17:40:06,"W1023","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",12.7361805555556
+84,2017-02-21 19:16:28,"S2640","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",12.8031134259204
+85,2017-02-21 19:40:10,"H0584","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",12.8195601851852
+86,2017-02-21 20:25:21,"B6737","Texas Workforce Commission",NA,"Industrial",NA,NA,"Other directly related industry (please specify): ","Yes",12.8509490740686
+87,2017-02-21 21:45:35,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"No",12.9066666666611
+88,2017-02-21 22:19:50,"A3925","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",12.9304398148148
+89,2017-02-21 23:59:09,"K5770","Social media (e.g. Facebook or Twitter)",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",12.9994212962908
+90,2017-02-22 01:58:39,"H5821","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",13.0823958333361
+91,2017-02-22 09:58:15,"S1690","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4154513888944
+92,2017-02-22 10:30:38,NA,"Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"No",13.4379513888861
+93,2017-02-22 10:38:09,"K8061","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4431597222222
+94,2017-02-22 11:23:38,"G7692","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.4747453703759
+95,2017-02-22 11:26:14,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",13.4765509259314
+96,2017-02-22 16:02:50,"C4576","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",13.6686458333278
+97,2017-02-22 16:11:13,"W5350","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.6744560185185
+98,2017-02-22 18:22:39,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",13.7657291666694
+99,2017-02-22 22:21:34,"A0732","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.9316435185185
+100,2017-02-22 22:43:54,"P8057","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",13.9471527777778
+101,2017-02-23 10:15:59,"H2367","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.4277662037065
+102,2017-02-23 11:50:46,"W2451","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.493587962963
+103,2017-02-23 12:26:51,"F2889","Employment agency","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.5186458333333
+104,2017-02-23 12:41:55,"M8432","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",14.5291087962991
+105,2017-02-23 13:46:27,"M9703","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",14.5739351851797
+106,2017-02-23 13:55:03,"G5301","Employment agency",NA,"Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.5799074074019
+107,2017-02-23 16:00:39,"W1372","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.6671180555556
+108,2017-02-23 16:25:15,"N7266","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",14.6842013888889
+110,2017-02-23 17:41:08,"S2417","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",14.7368981481481
+111,2017-02-24 00:58:09,"C4757","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",15.0403819444472
+112,2017-02-24 12:54:04,"M7498","Lion Elastomers website or mailing","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",15.5375578703676
+113,2017-02-25 10:22:05,"H4141","Social media (e.g. Facebook or Twitter)",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",16.4320023148176
+114,2017-02-25 13:56:57,"R9254","Personal referral",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",16.5812268518491
+115,2017-02-25 18:33:40,"D7925","Lion Elastomers website or mailing",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",16.7733796296296
+116,2017-02-25 22:13:55,"L7805","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",16.9263425925898
+117,2017-02-26 13:06:57,"T8117","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",17.5464930555611
+118,2017-02-26 20:17:39,"S9982","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",17.8455902777778
+119,2017-02-27 11:33:02,"M5482","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",18.4812847222195
+120,2017-02-27 11:34:11,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",18.4820717592593
+121,2017-02-27 13:06:42,"W9963","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",18.5463310185158
+122,2017-02-27 21:24:43,"S5294","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",18.8921643518546
+123,2017-02-27 22:58:48,"R4878","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",18.9575000000028
+124,2017-02-28 10:00:35,"G9805","Employment agency","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",19.4170717592648
+125,2017-02-28 12:05:50,NA,"Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",19.5040624999972
+126,2017-02-28 16:31:58,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",19.6888773148093
+127,2017-02-28 23:49:34,"C7126","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",19.9927546296324
+128,2017-03-01 11:50:04,"E5221","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",20.4931018518546
+129,2017-03-01 12:14:54,"B7298","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",20.510347222225
+130,2017-03-01 19:20:27,"J2646","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",20.8058796296241
+131,2017-03-01 23:39:47,"E4070","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",20.9859606481481
+132,2017-03-02 03:10:05,"K1506","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.1320138888834
+133,2017-03-02 11:11:30,"C5056","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",21.4663194444444
+134,2017-03-02 12:53:15,"M4267","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.5369791666667
+135,2017-03-02 14:01:29,"N4235","Online job site",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",21.5843749999972
+136,2017-03-02 14:31:01,"H7263","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",21.6048726851879
+137,2017-03-02 15:47:04,"M4370","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",21.6576851851852
+138,2017-03-02 21:09:06,"F9366","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",21.8813194444444
+139,2017-03-03 04:05:24,"R1285","Lion Elastomers employee",NA,NA,NA,"Construction/manual labor",NA,"Yes",22.1704166666667
+140,2017-03-03 12:14:48,"M4721","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",22.5102777777805
+141,2017-03-03 12:17:46,"B3831","Lion Elastomers employee",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",22.5123379629657
+142,2017-03-03 15:44:55,"N5173","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,"Other directly related industry (please specify): ","Yes",22.6561921296296
+144,2017-03-04 17:59:21,NA,"Personal referral",NA,NA,NA,"Construction/manual labor",NA,"No",23.7495486111139
+145,2017-03-05 10:54:23,"G6034","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",24.4544328703704
+146,2017-03-05 10:56:09,"W2100","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",24.455659722225
+147,2017-03-05 23:59:47,"D5029","Lion Elastomers employee",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",24.999849537037
+148,2017-03-06 11:24:49,"G0141","Personal referral","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.4755787036982
+149,2017-03-06 16:51:17,"C2670","Online job site",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.7022800925926
+150,2017-03-06 16:56:50,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",25.7061342592648
+151,2017-03-06 17:19:42,"B2731","Texas Workforce Commission","Manufacturing","Industrial",NA,NA,NA,"Yes",25.7220138888889
+152,2017-03-06 18:08:54,"A6352","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,"Other directly related industry (please specify): ","Yes",25.7561805555611
+153,2017-03-06 18:39:13,"B0026","I am currently an employee or contractor at Lion Elastomers","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.7772453703649
+154,2017-03-06 18:43:59,"G3325","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",25.7805439814842
+155,2017-03-06 20:54:22,"A5614","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",25.8710995370343
+156,2017-03-07 09:22:41,"H4326","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.3907523148148
+157,2017-03-07 09:36:52,"M1575","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.4006018518546
+158,2017-03-07 10:57:57,"G9025","Personal referral",NA,NA,NA,"Construction/manual labor","Other directly related industry (please specify): ","Yes",26.4569097222277
+159,2017-03-07 11:03:35,"W1907","Don't remember",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",26.460821759262
+160,2017-03-07 11:43:26,"B7735","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.4884953703731
+161,2017-03-07 13:32:42,"G9151","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.5643750000028
+162,2017-03-07 13:43:22,"E6587","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",26.5717939814787
+163,2017-03-07 15:08:57,NA,"Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",26.6312152777833
+164,2017-03-07 16:02:53,NA,"Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","No",26.66868055555
+165,2017-03-07 18:19:03,"C2728","Lion Elastomers employee",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.7632291666667
+166,2017-03-07 20:03:06,"M6958","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",26.8354861111139
+169,2017-03-07 22:04:25,"W2391","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",26.9197337962991
+170,2017-03-07 23:22:47,"D7833","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",26.9741550925981
+171,2017-03-08 09:55:08,"B7584","Personal referral",NA,NA,NA,"Construction/manual labor",NA,"Yes",27.4132986111084
+172,2017-03-08 11:31:23,"S6005","Texas Workforce Commission","Manufacturing",NA,NA,"Construction/manual labor",NA,"Yes",27.4801273148176
+173,2017-03-08 12:01:26,"S6058","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5009953703704
+174,2017-03-08 12:02:20,"S9034","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5016203703704
+175,2017-03-08 12:37:53,"H4190","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5263078703731
+176,2017-03-08 13:00:16,"H4516","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.5418518518574
+177,2017-03-08 13:10:44,"W7625","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.5491319444417
+178,2017-03-08 14:04:31,"M2997","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.5864699074074
+179,2017-03-08 14:29:34,"H8945","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.6038657407407
+180,2017-03-08 14:54:25,"T0170","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.6211226851879
+181,2017-03-08 15:07:35,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",27.6302662037065
+182,2017-03-08 18:22:17,"G7521","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",27.7654861111084
+183,2017-03-08 19:01:28,"S3406","Lion Elastomers website or mailing","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",27.7926967592565
+184,2017-03-08 21:28:20,"W1848","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",27.8946759259259
+186,2017-03-09 05:28:52,"B3307","Texas Workforce Commission","Manufacturing",NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.2283912037009
+187,2017-03-09 11:02:54,"J7726","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.4603587962908
+188,2017-03-09 14:16:19,"P8866","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.5946643518546
+189,2017-03-09 15:31:53,"J7843","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.647152777775
+190,2017-03-09 15:34:58,"G3779","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.6492824074074
+191,2017-03-09 15:42:51,"S1346","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",28.6547569444444
+192,2017-03-09 17:27:01,"J0050","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",28.7270949074074
+193,2017-03-09 19:25:04,"B9678","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",28.8090856481426
+194,2017-03-09 21:01:57,"G9893","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",28.8763541666694
+195,2017-03-10 10:33:49,"W4681","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",29.440150462963
+196,2017-03-10 12:48:41,"N5358","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",29.5338078703704
+197,2017-03-10 16:17:54,"G3252","I am currently an employee or contractor at Lion Elastomers",NA,NA,NA,"Construction/manual labor",NA,"Yes",29.6791087962908
+198,2017-03-11 16:31:02,NA,"I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",30.6882175925926
+199,2017-03-12 22:15:01,"R7787","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",31.9270949074129
+200,2017-03-13 02:02:47,"T5770","Lion Elastomers employee","Manufacturing",NA,NA,NA,NA,"Yes",32.0852662037065
+201,2017-03-13 02:27:24,"N8761","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",32.1023611111166
+202,2017-03-13 06:42:44,"M5062","I am currently an employee or contractor at Lion Elastomers",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",32.2796874999972
+203,2017-03-13 11:24:07,"Y1202","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",32.4750810185213
+204,2017-03-13 14:24:46,"K7507","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",32.600543981476
+205,2017-03-13 16:37:49,"S1605","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",32.6929398148121
+206,2017-03-13 21:48:49,"L7955","Texas Workforce Commission",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",32.9089120370343
+207,2017-03-14 10:50:45,"J0726","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",33.4519212962908
+208,2017-03-14 11:26:24,"L4385","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",33.4766666666694
+209,2017-03-14 12:14:58,"J1335","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",33.5103935185185
+210,2017-03-14 12:20:12,NA,"Recruiting organization",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"No",33.5140277777833
+211,2017-03-14 14:45:21,"R5803","Texas Workforce Commission",NA,NA,NA,NA,"Other directly related industry (please specify): ","Yes",33.6148379629602
+212,2017-03-14 15:34:42,"L1963","Personal referral",NA,"Industrial",NA,"Construction/manual labor",NA,"Yes",33.6491087962935
+213,2017-03-14 15:58:32,"L3691","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",33.6656481481482
+214,2017-03-14 16:42:40,"B8537","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",33.6962962963018
+215,2017-03-14 17:10:58,"W7087","Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",33.7159606481426
+216,2017-03-14 20:22:56,"M5369","Personal referral",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",33.8492592592593
+217,2017-03-14 20:50:17,"P9367","Online job site","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",33.8682638888861
+218,2017-03-15 17:50:01,"A4149","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",34.7430787037009
+219,2017-03-15 20:39:24,"J4851","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",34.8606944444472
+220,2017-03-15 23:44:05,"D6726","Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",34.9889583333278
+221,2017-03-16 06:42:48,"M8076","Lion Elastomers website or mailing","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","Yes",35.2797222222222
+222,2017-03-17 03:42:08,"P7449","Lion Elastomers employee","Manufacturing","Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor",NA,"Yes",36.1542708333278
+223,2017-03-17 13:16:44,"D9189","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",36.553287037037
+224,2017-03-17 16:36:12,"D4235","Texas Workforce Commission",NA,NA,NA,"Construction/manual labor",NA,"Yes",36.6918171296269
+225,2017-03-17 16:55:55,"N9886","Texas Workforce Commission","Manufacturing","Industrial","Warehouse, shipping, stocking shelves",NA,"Other directly related industry (please specify): ","Yes",36.7054976851879
+226,2017-03-17 20:30:04,"H0173","Personal referral",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",36.854212962963
+228,2017-03-18 18:10:03,"M5913","Texas Workforce Commission","Manufacturing",NA,NA,NA,NA,"Yes",37.7569791666694
+230,2017-03-20 00:36:02,"G6870","Lion Elastomers website or mailing",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"Yes",39.0250347222167
+231,2017-03-20 10:00:28,NA,"Texas Workforce Commission",NA,NA,"Warehouse, shipping, stocking shelves",NA,NA,"No",39.4169907407407
+232,2017-03-20 10:06:23,"W7885","Texas Workforce Commission","Manufacturing","Industrial",NA,"Construction/manual labor",NA,"Yes",39.421099537037
+235,2017-03-20 12:36:40,NA,"Texas Workforce Commission",NA,"Industrial","Warehouse, shipping, stocking shelves","Construction/manual labor","Other directly related industry (please specify): ","No",39.5254745370343
