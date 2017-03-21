@@ -12,6 +12,7 @@ n_qualified_apps <- data.frame(read.csv("n_qualified_apps.csv", header = TRUE, s
 df_time <- data.frame(read.csv("df_time.csv", header = TRUE, sep = ","))
 hear_sorted <- data.frame(read.csv("hear_sorted.csv", header = TRUE, sep = ","))
 educ_sorted <- data.frame(read.csv("educ_sorted.csv", header = TRUE, sep = ","))
+exp_sorted <- data.frame(read.csv("exp_sorted.csv", header = TRUE, sep = ","))
 mil_sorted <- data.frame(read.csv("mil_sorted.csv", header = TRUE, sep = ","))
 latlng_apps <- data.frame(read.csv("latlng_apps.csv", header = TRUE, sep = ","))
 
