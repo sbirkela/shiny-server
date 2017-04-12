@@ -4,7 +4,7 @@ library(DT)
 
 overall_earnings <- read.csv("overall_earnings.csv")
 majors_earnings <- read.csv("majors_earnings.csv")
-golfer_detail <- read.csv("~golfer_detail2.csv")
+golfer_detail <- read.csv("golfer_detail2.csv")
 roster <- read.csv("roster.csv") 
 tourney_ID_list <- read.csv("tourney_ID_list.csv")
 
