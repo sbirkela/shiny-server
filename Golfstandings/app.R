@@ -2,11 +2,11 @@
 library(shiny)
 library(DT)
 
-overall_earnings <- read.csv("~/Documents/Fantasy Golf/Golfstandings/To git hub/overall_earnings.csv")
-majors_earnings <- read.csv("~/Documents/Fantasy Golf/Golfstandings/To git hub/majors_earnings.csv")
-golfer_detail <- read.csv("~/Documents/Fantasy Golf/Golfstandings/To git hub/golfer_detail2.csv")
-roster <- read.csv("~/Documents/Fantasy Golf/Golfstandings/static files/roster.csv") 
-tourney_ID_list <- read.csv("~/Documents/Fantasy Golf/Golfstandings/To git hub/tourney_ID_list.csv")
+overall_earnings <- read.csv("overall_earnings.csv")
+majors_earnings <- read.csv("majors_earnings.csv")
+golfer_detail <- read.csv("~golfer_detail2.csv")
+roster <- read.csv("roster.csv") 
+tourney_ID_list <- read.csv("tourney_ID_list.csv")
 
 #______________________________________________________________________________
 # Define UI for application that draws a histogram
