@@ -42,7 +42,7 @@ server <- function(input, output)
       page_length <- 312
       }
 
-    datatable(df, options = list(pageLength = page_length), rownames = FALSE, caption = paste("Results updated through ", colnames(roster)[length(tourney_ID_list$x) + 11], sep = "") ) %>% formatCurrency(currency_col)
+    datatable(df, options = list(pageLength = page_length), rownames = FALSE, caption = paste("Results updated through ", colnames(roster)[length(tourney_ID_list$x) + 16], sep = "") ) %>% formatCurrency(currency_col)
       })
 
   
