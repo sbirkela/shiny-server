@@ -11,7 +11,7 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
-  df <- read.csv("df.csv")
+  df <- read.csv("/srv/shiny-server/Weights/df.csv")
    output$plot <- renderPlotly({
          plot_ly(df, x = ~r, y = ~ai, key = ~key) %>% 
            layout(dragmode = "select")
