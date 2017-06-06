@@ -1,9 +1,7 @@
 
 library(shiny)
 library(plotly)
-library(ztable)
 library(corrr)
-library(knitr)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
