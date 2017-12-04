@@ -1,0 +1,774 @@
+"Respondent","Applied_Time","ApplicantID","how_hear","Applicant","app_day"
+1,2017-10-04 13:17:29,NA,"Personal referral","No",0.55380787037037
+2,2017-10-04 15:18:01,"M9465","Personal referral","Yes",0.637511574074074
+3,2017-10-04 15:50:21,"E9240","Andeavor employee","Yes",0.659965277777778
+4,2017-10-04 15:59:34,"H7977","I am currently an employee or contractor at Andeavor","Yes",0.666365740740741
+5,2017-10-04 16:09:06,"F1968","Andeavor employee","Yes",0.672986111111111
+6,2017-10-04 16:12:42,"S1575","I am currently an employee or contractor at Andeavor","Yes",0.675486111111111
+7,2017-10-04 16:36:10,"F6342","I am currently an employee or contractor at Andeavor","Yes",0.691782407407407
+8,2017-10-04 16:42:40,NA,"Personal referral","No",0.696296296296296
+9,2017-10-04 16:57:45,"R3748","Andeavor website or mailing","Yes",0.706770833333333
+10,2017-10-04 17:02:38,"M9324","Personal referral","Yes",0.710162037037037
+11,2017-10-04 17:12:46,NA,"Social media (e.g. Facebook or Twitter)","No",0.717199074074074
+12,2017-10-04 17:13:01,"B5404","Personal referral","Yes",0.717372685185185
+13,2017-10-04 17:15:17,"K2920","Andeavor employee","Yes",0.718946759259259
+14,2017-10-04 17:15:54,"J3494","Andeavor employee","Yes",0.719375
+15,2017-10-04 17:19:56,"T9481","Andeavor employee","Yes",0.722175925925926
+16,2017-10-04 17:23:34,"R7967","I am currently an employee or contractor at Andeavor","Yes",0.724699074074074
+17,2017-10-04 17:33:41,"R4761","Don't remember","Yes",0.731724537037037
+18,2017-10-04 17:38:13,NA,"Online job site (other than Indeed)","No",0.734872685185185
+19,2017-10-04 17:39:54,"H6406","Andeavor website or mailing","Yes",0.736041666666667
+20,2017-10-04 17:50:31,"T3886","Andeavor employee","Yes",0.743414351851852
+21,2017-10-04 18:32:48,"S1081","Andeavor employee","Yes",0.772777777777778
+22,2017-10-04 18:33:18,"K7887","Personal referral","Yes",0.773125
+23,2017-10-04 18:39:08,"B4213","Andeavor employee","Yes",0.777175925925926
+24,2017-10-04 18:39:30,"C2681","Personal referral","Yes",0.777430555555556
+25,2017-10-04 18:57:21,"G8520","Andeavor employee","Yes",0.789826388888889
+26,2017-10-04 18:58:54,"C3752","Andeavor employee","Yes",0.790902777777778
+27,2017-10-04 18:59:40,"B2431","Andeavor employee","Yes",0.791435185185185
+28,2017-10-04 19:10:09,"J0170","Andeavor employee","Yes",0.798715277777778
+29,2017-10-04 19:17:22,NA,"Andeavor employee","No",0.803726851851852
+30,2017-10-04 19:27:30,NA,"Personal referral","No",0.810763888888889
+31,2017-10-04 19:31:39,NA,"Personal referral","No",0.813645833333333
+32,2017-10-04 19:45:03,NA,"Personal referral","No",0.822951388888889
+33,2017-10-04 19:54:22,NA,"Social media (e.g. Facebook or Twitter)","No",0.829421296296296
+34,2017-10-04 19:56:37,"F9551","Andeavor employee","Yes",0.830983796296296
+35,2017-10-04 20:03:52,"M0804","Social media (e.g. Facebook or Twitter)","Yes",0.836018518518518
+36,2017-10-04 20:21:04,"C0042","I am currently an employee or contractor at Andeavor","Yes",0.847962962962963
+37,2017-10-04 20:21:04,"C9637","Personal referral","Yes",0.847962962962963
+39,2017-10-04 20:58:11,"B1819","Personal referral","Yes",0.873738425925926
+40,2017-10-04 20:59:17,"B2882","Andeavor employee","Yes",0.874502314814815
+41,2017-10-04 21:03:36,"T6554","Andeavor employee","Yes",0.8775
+42,2017-10-04 21:06:40,"S7533","Social media (e.g. Facebook or Twitter)","Yes",0.87962962962963
+43,2017-10-04 21:06:42,"B7238","Personal referral","Yes",0.879652777777778
+44,2017-10-04 21:10:37,"M9311","Andeavor employee","Yes",0.882372685185185
+45,2017-10-04 21:20:31,"M8409","Andeavor employee","Yes",0.889247685185185
+46,2017-10-04 21:20:52,"A1093","Andeavor employee","Yes",0.889490740740741
+47,2017-10-04 21:23:30,"M8202","Personal referral","Yes",0.891319444444444
+48,2017-10-04 21:25:11,NA,"Andeavor employee","No",0.892488425925926
+49,2017-10-04 21:26:33,NA,"Personal referral","No",0.8934375
+50,2017-10-04 21:35:15,"S1571","Andeavor employee","Yes",0.899479166666667
+51,2017-10-04 21:42:12,"N5906","Andeavor employee","Yes",0.904305555555556
+52,2017-10-04 21:44:35,"M5853","Andeavor employee","Yes",0.905960648148148
+53,2017-10-04 21:45:08,"R0142","Social media (e.g. Facebook or Twitter)","Yes",0.906342592592593
+54,2017-10-04 21:49:07,"B7956","Personal referral","Yes",0.909108796296296
+55,2017-10-04 21:50:59,"C5509","Andeavor employee","Yes",0.910405092592593
+56,2017-10-04 22:00:32,NA,"Andeavor employee","No",0.917037037037037
+57,2017-10-04 22:01:14,"M2955","Andeavor employee","Yes",0.917523148148148
+58,2017-10-04 22:05:03,"M4144","Andeavor employee","Yes",0.920173611111111
+59,2017-10-04 22:08:55,"J9893","Personal referral","Yes",0.922858796296296
+60,2017-10-04 22:29:10,"R0021","Personal referral","Yes",0.936921296296296
+61,2017-10-04 22:35:12,"R7127","Personal referral","Yes",0.941111111111111
+62,2017-10-04 22:41:16,"R4436","Andeavor employee","Yes",0.945324074074074
+63,2017-10-04 22:41:51,"G8982","Personal referral","Yes",0.945729166666667
+64,2017-10-04 22:45:09,NA,"I am currently an employee or contractor at Andeavor","No",0.948020833333333
+65,2017-10-04 22:55:46,"R5274","Andeavor employee","Yes",0.955393518518519
+66,2017-10-04 22:57:07,"G0164","Andeavor employee","Yes",0.956331018518519
+67,2017-10-04 22:58:08,"F4981","Personal referral","Yes",0.957037037037037
+68,2017-10-04 23:03:03,"P6106","Social media (e.g. Facebook or Twitter)","Yes",0.960451388888889
+69,2017-10-04 23:03:20,"S3330","Personal referral","Yes",0.960648148148148
+70,2017-10-04 23:05:43,"C3478","Andeavor employee","Yes",0.962303240740741
+71,2017-10-04 23:13:53,"C8218","Andeavor employee","Yes",0.967974537037037
+72,2017-10-04 23:22:19,"F5615","Andeavor employee","Yes",0.973831018518518
+73,2017-10-04 23:32:33,"B9971","Andeavor employee","Yes",0.9809375
+74,2017-10-04 23:38:53,"V3956","Personal referral","Yes",0.985335648148148
+75,2017-10-04 23:43:05,"H2700","Personal referral","Yes",0.988252314814815
+76,2017-10-04 23:44:56,"A3044","Andeavor employee","Yes",0.989537037037037
+77,2017-10-04 23:47:55,"P6162","Social media (e.g. Facebook or Twitter)","Yes",0.991608796296296
+78,2017-10-04 23:56:50,NA,"Employment agency","No",0.997800925925926
+79,2017-10-05 00:02:34,"A9322","Andeavor employee","Yes",1.00178240740741
+80,2017-10-05 00:07:54,"L7427","Andeavor employee","Yes",1.00548611111111
+81,2017-10-05 00:09:26,"N3951","Andeavor employee","Yes",1.00655092592593
+82,2017-10-05 00:22:14,"L4773","Andeavor employee","Yes",1.01543981481481
+83,2017-10-05 00:22:14,"S8176","Andeavor employee","Yes",1.01543981481481
+84,2017-10-05 00:22:47,"D0223","Andeavor employee","Yes",1.01582175925926
+85,2017-10-05 00:33:04,"C7565","Andeavor employee","Yes",1.02296296296296
+86,2017-10-05 00:37:05,NA,"Personal referral","No",1.02575231481481
+87,2017-10-05 00:39:40,"S4339","Andeavor employee","Yes",1.0275462962963
+88,2017-10-05 00:43:19,NA,"Online job site (other than Indeed)","No",1.03008101851852
+89,2017-10-05 00:45:03,NA,"Social media (e.g. Facebook or Twitter)","No",1.03128472222222
+90,2017-10-05 00:46:58,"B8485","Personal referral","Yes",1.03261574074074
+91,2017-10-05 00:55:05,"C8867","Social media (e.g. Facebook or Twitter)","Yes",1.03825231481481
+92,2017-10-05 00:55:41,"C1777","Personal referral","Yes",1.03866898148148
+93,2017-10-05 01:03:07,"N5451","Personal referral","Yes",1.04383101851852
+94,2017-10-05 01:05:24,"G6620","Andeavor employee","Yes",1.04541666666667
+95,2017-10-05 01:13:35,"W1856","Personal referral","Yes",1.05109953703704
+96,2017-10-05 01:19:23,"N5996","Personal referral","Yes",1.05512731481481
+97,2017-10-05 01:28:26,"V9520","Social media (e.g. Facebook or Twitter)","Yes",1.06141203703704
+98,2017-10-05 01:28:30,"D7378","I am currently an employee or contractor at Andeavor","Yes",1.06145833333333
+99,2017-10-05 01:30:54,"L1693","Personal referral","Yes",1.063125
+100,2017-10-05 01:36:21,"A3301","Andeavor employee","Yes",1.06690972222222
+101,2017-10-05 01:39:50,"C5154","Andeavor employee","Yes",1.0693287037037
+102,2017-10-05 01:42:57,"G4198","Personal referral","Yes",1.07149305555556
+103,2017-10-05 01:48:05,"S1010","Andeavor employee","Yes",1.07505787037037
+104,2017-10-05 01:56:41,"S9340","Personal referral","Yes",1.08103009259259
+105,2017-10-05 02:00:37,"M7791","Personal referral","Yes",1.08376157407407
+106,2017-10-05 02:14:41,"A7823","Personal referral","Yes",1.09353009259259
+107,2017-10-05 02:17:44,"Z5291","I am currently an employee or contractor at Andeavor","Yes",1.09564814814815
+108,2017-10-05 03:05:34,"C0121","Personal referral","Yes",1.12886574074074
+109,2017-10-05 07:26:54,"R2630","I am currently an employee or contractor at Andeavor","Yes",1.31034722222222
+110,2017-10-05 09:00:02,"R3618","I am currently an employee or contractor at Andeavor","Yes",1.37502314814815
+111,2017-10-05 09:32:50,"N4748","Andeavor employee","Yes",1.39780092592593
+112,2017-10-05 10:26:03,"V1379","Andeavor employee","Yes",1.43475694444444
+113,2017-10-05 10:43:49,NA,"Personal referral","No",1.44709490740741
+114,2017-10-05 10:50:42,"H0340","Personal referral","Yes",1.451875
+115,2017-10-05 10:55:33,NA,"Social media (e.g. Facebook or Twitter)","No",1.45524305555556
+116,2017-10-05 10:59:20,"P1196","Social media (e.g. Facebook or Twitter)","Yes",1.45787037037037
+117,2017-10-05 11:18:19,"L3289","I am currently an employee or contractor at Andeavor","Yes",1.47105324074074
+118,2017-10-05 11:29:33,"P6230","Personal referral","Yes",1.47885416666667
+119,2017-10-05 11:47:11,"W4778","Personal referral","Yes",1.49109953703704
+120,2017-10-05 11:49:14,"L1125","Andeavor employee","Yes",1.49252314814815
+121,2017-10-05 11:54:13,"V9906","Personal referral","Yes",1.4959837962963
+122,2017-10-05 11:55:17,"N5533","Andeavor employee","Yes",1.49672453703704
+123,2017-10-05 11:57:12,NA,"Andeavor employee","No",1.49805555555556
+124,2017-10-05 12:24:12,"J1868","Social media (e.g. Facebook or Twitter)","Yes",1.51680555555556
+125,2017-10-05 12:25:48,NA,"Andeavor employee","No",1.51791666666667
+126,2017-10-05 12:29:02,"D2497","Andeavor employee","Yes",1.52016203703704
+127,2017-10-05 12:54:03,"R2606","Social media (e.g. Facebook or Twitter)","Yes",1.53753472222222
+128,2017-10-05 12:57:49,NA,"Andeavor employee","No",1.54015046296296
+129,2017-10-05 13:02:17,"J8513","Personal referral","Yes",1.54325231481481
+130,2017-10-05 13:11:24,NA,"Personal referral","No",1.54958333333333
+131,2017-10-05 13:12:57,"H4126","Andeavor employee","Yes",1.55065972222222
+132,2017-10-05 13:19:15,"G8401","Social media (e.g. Facebook or Twitter)","Yes",1.55503472222222
+133,2017-10-05 13:21:27,NA,"Social media (e.g. Facebook or Twitter)","No",1.5565625
+134,2017-10-05 13:26:50,"B0495","Andeavor employee","Yes",1.56030092592593
+135,2017-10-05 13:27:48,"U0082","Personal referral","Yes",1.56097222222222
+136,2017-10-05 13:33:09,"R9364","Personal referral","Yes",1.5646875
+137,2017-10-05 13:40:36,"E2853","Andeavor employee","Yes",1.56986111111111
+138,2017-10-05 13:45:18,"L2821","I am currently an employee or contractor at Andeavor","Yes",1.573125
+139,2017-10-05 13:46:18,"G9839","Social media (e.g. Facebook or Twitter)","Yes",1.57381944444444
+140,2017-10-05 13:50:08,"G2541","Personal referral","Yes",1.57648148148148
+141,2017-10-05 14:07:43,NA,"Social media (e.g. Facebook or Twitter)","No",1.58869212962963
+142,2017-10-05 14:16:08,"V3012","Andeavor employee","Yes",1.59453703703704
+143,2017-10-05 14:18:33,"P9948","Andeavor employee","Yes",1.59621527777778
+144,2017-10-05 14:22:44,NA,"Andeavor website or mailing","No",1.59912037037037
+145,2017-10-05 14:24:38,NA,"Social media (e.g. Facebook or Twitter)","No",1.60043981481481
+146,2017-10-05 14:27:12,"M3203","Andeavor employee","Yes",1.60222222222222
+147,2017-10-05 14:34:45,NA,"Online job site (other than Indeed)","No",1.60746527777778
+148,2017-10-05 14:51:59,"J2662","Indeed.com","Yes",1.61943287037037
+149,2017-10-05 14:57:37,"T9816","Andeavor employee","Yes",1.62334490740741
+150,2017-10-05 15:07:03,"S6692","Social media (e.g. Facebook or Twitter)","Yes",1.62989583333333
+151,2017-10-05 15:07:43,"B7201","Andeavor website or mailing","Yes",1.6303587962963
+152,2017-10-05 15:10:41,"B1542","Personal referral","Yes",1.63241898148148
+153,2017-10-05 15:11:53,"G7256","Online job site (other than Indeed)","Yes",1.63325231481481
+154,2017-10-05 15:23:03,"M2824","Indeed.com","Yes",1.64100694444444
+155,2017-10-05 15:24:54,"P0501","Personal referral","Yes",1.64229166666667
+156,2017-10-05 15:27:41,"L9883","Indeed.com","Yes",1.64422453703704
+157,2017-10-05 15:35:59,"W3916","Social media (e.g. Facebook or Twitter)","Yes",1.64998842592593
+158,2017-10-05 15:48:09,"S9989","Personal referral","Yes",1.6584375
+159,2017-10-05 16:09:30,NA,"Personal referral","No",1.67326388888889
+160,2017-10-05 16:10:00,"M6844","Personal referral","Yes",1.67361111111111
+161,2017-10-05 16:15:31,"M1140","Andeavor website or mailing","Yes",1.67744212962963
+162,2017-10-05 16:27:52,"B7535","Personal referral","Yes",1.68601851851852
+163,2017-10-05 16:32:27,"S9931","Online job site (other than Indeed)","Yes",1.68920138888889
+164,2017-10-05 16:43:57,"W7684","Personal referral","Yes",1.6971875
+165,2017-10-05 16:46:05,"J9968","Social media (e.g. Facebook or Twitter)","Yes",1.69866898148148
+166,2017-10-05 16:46:27,"P0589","Personal referral","Yes",1.69892361111111
+167,2017-10-05 16:48:49,"L0789","Personal referral","Yes",1.70056712962963
+168,2017-10-05 16:52:26,"L1404","Personal referral","Yes",1.7030787037037
+169,2017-10-05 16:58:51,"M9550","Personal referral","Yes",1.70753472222222
+170,2017-10-05 17:13:04,"G2443","Personal referral","Yes",1.71740740740741
+171,2017-10-05 17:17:00,"D3786","Personal referral","Yes",1.72013888888889
+172,2017-10-05 17:17:38,"H8492","Personal referral","Yes",1.7205787037037
+173,2017-10-05 17:27:46,"C7564","I am currently an employee or contractor at Andeavor","Yes",1.72761574074074
+174,2017-10-05 17:43:32,NA,"Personal referral","No",1.73856481481481
+175,2017-10-05 17:51:47,"D6118","I am currently an employee or contractor at Andeavor","Yes",1.74429398148148
+176,2017-10-05 17:54:48,"L4449","Personal referral","Yes",1.74638888888889
+177,2017-10-05 17:58:57,"C1030","Personal referral","Yes",1.74927083333333
+178,2017-10-05 18:05:26,"R5093","Personal referral","Yes",1.75377314814815
+179,2017-10-05 18:13:34,"S2648","Andeavor employee","Yes",1.7594212962963
+180,2017-10-05 18:15:41,"I1819","Andeavor employee","Yes",1.7608912037037
+181,2017-10-05 18:53:56,"L1538","Andeavor employee","Yes",1.7874537037037
+182,2017-10-05 19:21:59,"W1545","Personal referral","Yes",1.80693287037037
+183,2017-10-05 19:25:09,"R1110","Social media (e.g. Facebook or Twitter)","Yes",1.80913194444444
+184,2017-10-05 19:36:50,"M5837","Social media (e.g. Facebook or Twitter)","Yes",1.81724537037037
+185,2017-10-05 19:42:18,NA,"Personal referral","No",1.82104166666667
+186,2017-10-05 19:43:16,"T4957","Andeavor employee","Yes",1.82171296296296
+187,2017-10-05 19:44:41,"H0361","Andeavor employee","Yes",1.82269675925926
+188,2017-10-05 19:46:57,"J0536","Andeavor employee","Yes",1.82427083333333
+189,2017-10-05 19:48:03,"C9844","Personal referral","Yes",1.82503472222222
+190,2017-10-05 19:52:22,"W1453","Andeavor employee","Yes",1.82803240740741
+191,2017-10-05 19:58:12,"P5441","Social media (e.g. Facebook or Twitter)","Yes",1.83208333333333
+192,2017-10-05 19:59:49,"G4155","Personal referral","Yes",1.83320601851852
+193,2017-10-05 19:59:51,NA,"Don't remember","No",1.83322916666667
+194,2017-10-05 20:13:15,NA,"Social media (e.g. Facebook or Twitter)","No",1.84253472222222
+195,2017-10-05 20:14:50,"S5820","Social media (e.g. Facebook or Twitter)","Yes",1.84363425925926
+196,2017-10-05 20:17:30,"D3516","Personal referral","Yes",1.84548611111111
+197,2017-10-05 20:18:21,"C0623","Personal referral","Yes",1.84607638888889
+198,2017-10-05 20:26:21,"G4167","Personal referral","Yes",1.85163194444444
+199,2017-10-05 20:32:55,"C2010","Personal referral","Yes",1.85619212962963
+200,2017-10-05 20:33:54,"J7764","Personal referral","Yes",1.856875
+201,2017-10-05 20:35:37,"M9914","Andeavor employee","Yes",1.85806712962963
+202,2017-10-05 20:39:36,"L6313","Andeavor employee","Yes",1.86083333333333
+203,2017-10-05 20:48:59,"S1750","Indeed.com","Yes",1.86734953703704
+204,2017-10-05 20:50:27,"R7527","Indeed.com","Yes",1.86836805555556
+205,2017-10-05 21:08:25,"G1414","Personal referral","Yes",1.88084490740741
+206,2017-10-05 21:18:47,"F8331","Social media (e.g. Facebook or Twitter)","Yes",1.88804398148148
+207,2017-10-05 21:25:07,NA,"Social media (e.g. Facebook or Twitter)","No",1.89244212962963
+208,2017-10-05 21:35:19,"J0175","I am currently an employee or contractor at Andeavor","Yes",1.89952546296296
+209,2017-10-05 21:35:46,"S0364","Personal referral","Yes",1.89983796296296
+210,2017-10-05 21:48:34,"H1806","Andeavor employee","Yes",1.90872685185185
+211,2017-10-05 22:02:19,"M4660","Andeavor employee","Yes",1.91827546296296
+212,2017-10-05 22:08:42,"A6541","I am currently an employee or contractor at Andeavor","Yes",1.92270833333333
+213,2017-10-05 22:12:00,"V2780","Personal referral","Yes",1.925
+214,2017-10-05 22:23:27,"H0956","Personal referral","Yes",1.93295138888889
+215,2017-10-05 22:34:48,NA,"Personal referral","No",1.94083333333333
+216,2017-10-05 22:41:28,"T1753","Personal referral","Yes",1.94546296296296
+217,2017-10-05 22:47:01,"J0308","Online job site (other than Indeed)","Yes",1.94931712962963
+218,2017-10-05 22:47:47,"S2812","Personal referral","Yes",1.94984953703704
+219,2017-10-05 23:01:22,"P6398","Andeavor employee","Yes",1.95928240740741
+220,2017-10-05 23:20:57,"D2273","Andeavor website or mailing","Yes",1.97288194444444
+221,2017-10-05 23:23:05,"G5348","Personal referral","Yes",1.97436342592593
+222,2017-10-05 23:33:04,"H4846","I am currently an employee or contractor at Andeavor","Yes",1.9812962962963
+223,2017-10-05 23:39:14,"V6769","Personal referral","Yes",1.9855787037037
+224,2017-10-05 23:45:40,NA,"Personal referral","No",1.9900462962963
+225,2017-10-05 23:45:58,"K8382","Andeavor employee","Yes",1.99025462962963
+226,2017-10-05 23:47:06,"B3393","Personal referral","Yes",1.99104166666667
+227,2017-10-05 23:47:41,"B0385","Personal referral","Yes",1.99144675925926
+228,2017-10-05 23:53:25,"F4293","Personal referral","Yes",1.99542824074074
+229,2017-10-05 23:54:33,"E5887","Personal referral","Yes",1.99621527777778
+230,2017-10-05 23:55:09,"C9865","Personal referral","Yes",1.99663194444444
+231,2017-10-05 23:55:35,"B6436","Personal referral","Yes",1.99693287037037
+232,2017-10-05 23:59:45,"N1190","Online job site (other than Indeed)","Yes",1.99982638888889
+233,2017-10-06 00:07:46,"V8791","I am currently an employee or contractor at Andeavor","Yes",2.00539351851852
+234,2017-10-06 00:19:38,"F1650","Job training program","Yes",2.01363425925926
+235,2017-10-06 00:23:42,"J3088","Indeed.com","Yes",2.01645833333333
+236,2017-10-06 00:26:00,"M3336","Andeavor employee","Yes",2.01805555555556
+237,2017-10-06 00:37:12,"P0377","Andeavor employee","Yes",2.02583333333333
+238,2017-10-06 00:37:17,"W3725","Personal referral","Yes",2.0258912037037
+239,2017-10-06 00:40:35,"W8463","Personal referral","Yes",2.02818287037037
+240,2017-10-06 00:41:51,"I7294","Personal referral","Yes",2.0290625
+241,2017-10-06 00:46:16,"H4233","Social media (e.g. Facebook or Twitter)","Yes",2.03212962962963
+242,2017-10-06 00:46:22,"B4355","Andeavor employee","Yes",2.03219907407407
+243,2017-10-06 00:53:53,"Y4505","Andeavor employee","Yes",2.03741898148148
+244,2017-10-06 01:04:21,"F0873","Andeavor employee","Yes",2.0446875
+245,2017-10-06 01:13:43,"R0339","Personal referral","Yes",2.05119212962963
+246,2017-10-06 01:31:56,"F1944","Andeavor employee","Yes",2.06384259259259
+247,2017-10-06 01:33:48,"S4734","Andeavor employee","Yes",2.06513888888889
+248,2017-10-06 01:36:59,"C8807","Personal referral","Yes",2.06734953703704
+249,2017-10-06 01:52:56,"D7944","Indeed.com","Yes",2.07842592592593
+250,2017-10-06 01:53:34,"B3918","Social media (e.g. Facebook or Twitter)","Yes",2.07886574074074
+251,2017-10-06 01:57:38,"H7459","Social media (e.g. Facebook or Twitter)","Yes",2.08168981481481
+252,2017-10-06 01:58:15,NA,"Social media (e.g. Facebook or Twitter)","No",2.08211805555556
+253,2017-10-06 02:05:34,"C0766","Personal referral","Yes",2.08719907407407
+254,2017-10-06 02:38:10,"F3529","Personal referral","Yes",2.10983796296296
+255,2017-10-06 02:51:25,NA,"Personal referral","No",2.11903935185185
+256,2017-10-06 02:56:16,"G5341","Andeavor employee","Yes",2.12240740740741
+257,2017-10-06 03:02:10,"B8180","Andeavor employee","Yes",2.12650462962963
+258,2017-10-06 03:07:13,"D9027","Personal referral","Yes",2.13001157407407
+259,2017-10-06 03:07:15,"T8534","Andeavor employee","Yes",2.13003472222222
+260,2017-10-06 03:11:57,"P2014","Social media (e.g. Facebook or Twitter)","Yes",2.13329861111111
+261,2017-10-06 03:12:42,"H2185","Personal referral","Yes",2.13381944444444
+262,2017-10-06 03:17:19,"C7919","Social media (e.g. Facebook or Twitter)","Yes",2.13702546296296
+263,2017-10-06 03:49:01,"N4942","Andeavor employee","Yes",2.15903935185185
+264,2017-10-06 06:48:29,"T3969","Personal referral","Yes",2.28366898148148
+265,2017-10-06 08:18:47,"T2130","Andeavor employee","Yes",2.34637731481481
+266,2017-10-06 09:24:12,"K6140","Indeed.com","Yes",2.39180555555556
+267,2017-10-06 10:07:34,"P8922","Personal referral","Yes",2.4219212962963
+268,2017-10-06 12:04:03,"P2414","Social media (e.g. Facebook or Twitter)","Yes",2.5028125
+269,2017-10-06 12:28:56,"P0453","Personal referral","Yes",2.52009259259259
+270,2017-10-06 13:22:50,"C8066","Personal referral","Yes",2.55752314814815
+271,2017-10-06 13:24:31,"C0531","Personal referral","Yes",2.55869212962963
+272,2017-10-06 13:24:57,NA,"Personal referral","No",2.55899305555556
+273,2017-10-06 13:47:41,"A5342","Don't remember","Yes",2.57478009259259
+274,2017-10-06 14:20:31,"S5085","Personal referral","Yes",2.59758101851852
+275,2017-10-06 16:04:07,"R1658","Personal referral","Yes",2.66952546296296
+276,2017-10-06 16:05:15,"N4280","Indeed.com","Yes",2.6703125
+277,2017-10-06 16:09:20,"D2845","Employment agency","Yes",2.67314814814815
+278,2017-10-06 16:13:12,"G7402","Andeavor employee","Yes",2.67583333333333
+279,2017-10-06 16:36:26,"A9516","Andeavor employee","Yes",2.69196759259259
+280,2017-10-06 16:44:09,"L1451","Personal referral","Yes",2.69732638888889
+281,2017-10-06 17:11:49,"Z0159","Andeavor employee","Yes",2.71653935185185
+282,2017-10-06 17:22:06,"L2106","Social media (e.g. Facebook or Twitter)","Yes",2.72368055555556
+283,2017-10-06 17:22:18,"B4806","Job training program","Yes",2.72381944444444
+284,2017-10-06 17:25:41,"F3712","Andeavor employee","Yes",2.72616898148148
+285,2017-10-06 17:33:21,"F8144","Personal referral","Yes",2.73149305555556
+286,2017-10-06 17:41:21,"W2996","Indeed.com","Yes",2.73704861111111
+287,2017-10-06 17:51:34,"A2490","Personal referral","Yes",2.74414351851852
+288,2017-10-06 18:19:10,"G4802","Personal referral","Yes",2.76331018518519
+289,2017-10-06 18:28:04,"M0717","Personal referral","Yes",2.76949074074074
+290,2017-10-06 18:33:15,"P3040","Personal referral","Yes",2.77309027777778
+291,2017-10-06 19:04:05,"S0439","Personal referral","Yes",2.79450231481482
+292,2017-10-06 19:55:58,"S1494","Andeavor employee","Yes",2.83053240740741
+293,2017-10-06 20:01:21,"P5881","I am currently an employee or contractor at Andeavor","Yes",2.83427083333333
+294,2017-10-06 20:06:24,"P7857","Personal referral","Yes",2.83777777777778
+295,2017-10-06 20:13:43,"C6381","Personal referral","Yes",2.8428587962963
+296,2017-10-06 21:17:43,"D6227","Personal referral","Yes",2.88730324074074
+297,2017-10-06 21:21:28,"G1956","Andeavor employee","Yes",2.88990740740741
+298,2017-10-06 21:25:07,"A8086","Social media (e.g. Facebook or Twitter)","Yes",2.89244212962963
+299,2017-10-06 21:34:13,"H7304","Personal referral","Yes",2.89876157407407
+300,2017-10-06 22:01:05,"C5176","Indeed.com","Yes",2.91741898148148
+301,2017-10-06 22:02:32,"V5000","I am currently an employee or contractor at Andeavor","Yes",2.91842592592593
+302,2017-10-06 22:37:52,"P6326","Social media (e.g. Facebook or Twitter)","Yes",2.94296296296296
+303,2017-10-06 22:45:31,"G7695","I am currently an employee or contractor at Andeavor","Yes",2.94827546296296
+304,2017-10-06 23:07:45,"R8069","Personal referral","Yes",2.96371527777778
+305,2017-10-07 00:11:07,"Z3889","Indeed.com","Yes",3.00771990740741
+306,2017-10-07 00:38:02,"M7742","Social media (e.g. Facebook or Twitter)","Yes",3.02641203703704
+307,2017-10-07 00:55:54,"L0880","Andeavor employee","Yes",3.03881944444444
+308,2017-10-07 02:42:23,"M1588","Personal referral","Yes",3.1127662037037
+309,2017-10-07 03:11:28,"B0005","Personal referral","Yes",3.13296296296296
+310,2017-10-07 04:20:28,"G3591","Personal referral","Yes",3.18087962962963
+311,2017-10-07 05:41:43,"Y2923","Personal referral","Yes",3.23730324074074
+312,2017-10-07 06:00:39,"W8436","Personal referral","Yes",3.25045138888889
+313,2017-10-07 09:19:49,"P2808","Indeed.com","Yes",3.38876157407407
+314,2017-10-07 10:38:33,"A0783","Online job site (other than Indeed)","Yes",3.4434375
+315,2017-10-07 11:33:43,"R6528","Personal referral","Yes",3.48174768518519
+316,2017-10-07 12:02:25,"M0145","Personal referral","Yes",3.50167824074074
+317,2017-10-07 12:38:09,"M1174","Recruiting organization","Yes",3.52649305555556
+318,2017-10-07 12:38:29,NA,"Personal referral","No",3.52672453703704
+319,2017-10-07 12:55:57,"M6609","Social media (e.g. Facebook or Twitter)","Yes",3.53885416666667
+320,2017-10-07 13:59:42,"W1260","Andeavor employee","Yes",3.583125
+321,2017-10-07 14:26:04,"C5620","Personal referral","Yes",3.60143518518519
+322,2017-10-07 15:29:54,"B6824","I am currently an employee or contractor at Andeavor","Yes",3.64576388888889
+323,2017-10-07 17:04:42,"S2990","Personal referral","Yes",3.71159722222222
+324,2017-10-07 17:05:37,"R3639","Andeavor employee","Yes",3.7122337962963
+325,2017-10-07 17:11:33,"M6192","Andeavor employee","Yes",3.71635416666667
+326,2017-10-07 17:14:39,NA,"Andeavor employee","No",3.71850694444444
+327,2017-10-07 17:36:04,"B6413","Andeavor employee","Yes",3.73337962962963
+328,2017-10-07 17:58:33,"D7535","Indeed.com","Yes",3.74899305555556
+329,2017-10-07 17:59:28,"M7283","Don't remember","Yes",3.74962962962963
+330,2017-10-07 18:38:38,"L8306","Andeavor website or mailing","Yes",3.7768287037037
+331,2017-10-07 18:41:05,"M5383","Andeavor website or mailing","Yes",3.77853009259259
+332,2017-10-07 18:42:54,"G7873","Social media (e.g. Facebook or Twitter)","Yes",3.77979166666667
+333,2017-10-07 19:02:03,"D4941","Personal referral","Yes",3.79309027777778
+334,2017-10-07 19:07:50,"S9382","Indeed.com","Yes",3.79710648148148
+335,2017-10-07 20:00:14,"M3396","Personal referral","Yes",3.83349537037037
+336,2017-10-07 20:12:19,"S9009","Personal referral","Yes",3.84188657407407
+337,2017-10-07 20:32:15,"M1339","Indeed.com","Yes",3.85572916666667
+338,2017-10-07 20:40:55,NA,"Personal referral","No",3.86174768518519
+339,2017-10-07 21:05:46,NA,"Andeavor employee","No",3.87900462962963
+340,2017-10-07 21:07:55,NA,"Andeavor employee","No",3.88049768518519
+341,2017-10-07 22:15:12,"H0282","Social media (e.g. Facebook or Twitter)","Yes",3.92722222222222
+342,2017-10-07 22:28:57,"C2575","Andeavor employee","Yes",3.93677083333333
+343,2017-10-07 22:36:05,"H0244","Andeavor employee","Yes",3.94172453703704
+344,2017-10-07 22:38:20,"N8684","Andeavor employee","Yes",3.94328703703704
+345,2017-10-07 22:45:46,"S3873","Social media (e.g. Facebook or Twitter)","Yes",3.94844907407407
+346,2017-10-07 23:17:56,"W7820","Andeavor employee","Yes",3.97078703703704
+347,2017-10-07 23:20:51,"G4567","Personal referral","Yes",3.9728125
+348,2017-10-07 23:33:26,"D1056","I am currently an employee or contractor at Andeavor","Yes",3.98155092592593
+349,2017-10-07 23:51:12,"D2006","Job training program","Yes",3.99388888888889
+350,2017-10-08 00:03:47,"R5895","Personal referral","Yes",4.00262731481481
+351,2017-10-08 00:05:30,"A7974","Andeavor employee","Yes",4.00381944444444
+352,2017-10-08 00:14:32,NA,"Personal referral","No",4.01009259259259
+353,2017-10-08 00:27:00,"M7336","Indeed.com","Yes",4.01875
+354,2017-10-08 00:46:10,"M3685","Andeavor employee","Yes",4.03206018518518
+355,2017-10-08 00:46:15,"E6713","I am currently an employee or contractor at Andeavor","Yes",4.03211805555556
+356,2017-10-08 00:50:37,"V1146","Andeavor employee","Yes",4.03515046296296
+357,2017-10-08 01:02:47,"G8174","Personal referral","Yes",4.04359953703704
+358,2017-10-08 01:12:28,"M7882","Andeavor website or mailing","Yes",4.05032407407407
+359,2017-10-08 01:38:21,"W5943","Andeavor website or mailing","Yes",4.06829861111111
+360,2017-10-08 01:40:29,"M9684","Personal referral","Yes",4.06978009259259
+361,2017-10-08 01:45:44,"B3327","Social media (e.g. Facebook or Twitter)","Yes",4.07342592592593
+362,2017-10-08 02:06:18,"B8743","Personal referral","Yes",4.08770833333333
+363,2017-10-08 02:22:55,"R1215","Indeed.com","Yes",4.09924768518519
+364,2017-10-08 02:28:55,"W0487","Personal referral","Yes",4.10341435185185
+365,2017-10-08 02:32:11,"B6353","Andeavor employee","Yes",4.10568287037037
+366,2017-10-08 02:42:40,"G8443","Recruiting organization","Yes",4.11296296296296
+367,2017-10-08 02:43:51,"H4428","I am currently an employee or contractor at Andeavor","Yes",4.11378472222222
+368,2017-10-08 03:22:32,"C6961","Personal referral","Yes",4.14064814814815
+369,2017-10-08 04:38:01,"R0500","Andeavor employee","Yes",4.19306712962963
+370,2017-10-08 06:24:02,"K9270","Personal referral","Yes",4.26668981481482
+371,2017-10-08 08:31:10,"E3857","Indeed.com","Yes",4.35497685185185
+372,2017-10-08 09:23:14,NA,"Personal referral","No",4.39113425925926
+373,2017-10-08 09:26:08,NA,"Personal referral","No",4.39314814814815
+374,2017-10-08 09:34:46,NA,"Newspaper ad","No",4.39914351851852
+375,2017-10-08 10:18:08,"G9132","Personal referral","Yes",4.42925925925926
+376,2017-10-08 10:59:30,"A5753","Personal referral","Yes",4.45798611111111
+377,2017-10-08 11:29:36,"T3426","Personal referral","Yes",4.47888888888889
+378,2017-10-08 12:11:55,"R2952","I am currently an employee or contractor at Andeavor","Yes",4.50827546296296
+379,2017-10-08 12:51:40,"T7137","Andeavor website or mailing","Yes",4.53587962962963
+380,2017-10-08 13:30:08,"C4310","Social media (e.g. Facebook or Twitter)","Yes",4.56259259259259
+381,2017-10-08 14:02:25,"A6355","Andeavor website or mailing","Yes",4.58501157407407
+382,2017-10-08 14:24:24,"T8310","Andeavor employee","Yes",4.60027777777778
+383,2017-10-08 14:27:04,"W7324","Indeed.com","Yes",4.60212962962963
+384,2017-10-08 15:31:40,"W7680","Andeavor employee","Yes",4.64699074074074
+385,2017-10-08 15:33:06,"C0160","I am currently an employee or contractor at Andeavor","Yes",4.64798611111111
+386,2017-10-08 15:44:21,"C9431","Personal referral","Yes",4.65579861111111
+387,2017-10-08 16:03:38,"M3966","Personal referral","Yes",4.66918981481481
+388,2017-10-08 16:25:14,"S6705","Personal referral","Yes",4.68418981481481
+389,2017-10-08 16:37:48,"S0913","Personal referral","Yes",4.69291666666667
+390,2017-10-08 16:46:02,"R2559","Personal referral","Yes",4.69863425925926
+391,2017-10-08 16:48:43,"C1277","Andeavor website or mailing","Yes",4.70049768518519
+392,2017-10-08 16:57:09,"C9370","Indeed.com","Yes",4.70635416666667
+393,2017-10-08 17:40:57,"D9482","I am currently an employee or contractor at Andeavor","Yes",4.73677083333333
+394,2017-10-08 18:36:19,"L3558","Andeavor employee","Yes",4.77521990740741
+395,2017-10-08 19:26:30,"W6668","Indeed.com","Yes",4.81006944444444
+396,2017-10-08 20:13:28,NA,"Social media (e.g. Facebook or Twitter)","No",4.84268518518518
+398,2017-10-08 21:09:21,NA,"Personal referral","No",4.88149305555556
+399,2017-10-08 23:04:09,NA,"Online job site (other than Indeed)","No",4.96121527777778
+400,2017-10-08 23:16:54,"B1424","Personal referral","Yes",4.97006944444444
+401,2017-10-08 23:27:26,"A0742","Andeavor employee","Yes",4.97738425925926
+403,2017-10-08 23:49:02,"K5449","Indeed.com","Yes",4.99238425925926
+404,2017-10-09 00:10:24,"G9778","Andeavor employee","Yes",5.00722222222222
+405,2017-10-09 00:12:37,"W4316","Andeavor employee","Yes",5.00876157407407
+406,2017-10-09 00:20:39,"K5156","Social media (e.g. Facebook or Twitter)","Yes",5.01434027777778
+407,2017-10-09 00:59:50,"D3387","Andeavor employee","Yes",5.04155092592593
+408,2017-10-09 01:11:44,"C8190","I am currently an employee or contractor at Andeavor","Yes",5.04981481481482
+409,2017-10-09 01:17:48,"S5467","Personal referral","Yes",5.05402777777778
+410,2017-10-09 01:28:00,"N7803","Andeavor employee","Yes",5.06111111111111
+411,2017-10-09 01:29:11,"F7530","Andeavor employee","Yes",5.06193287037037
+412,2017-10-09 01:31:36,"R2801","Andeavor employee","Yes",5.06361111111111
+413,2017-10-09 01:54:52,"T7435","Personal referral","Yes",5.07976851851852
+414,2017-10-09 02:46:34,"O7844","Indeed.com","Yes",5.1156712962963
+415,2017-10-09 03:16:34,"W3391","Andeavor employee","Yes",5.13650462962963
+416,2017-10-09 04:25:32,"S1161","Indeed.com","Yes",5.18439814814815
+417,2017-10-09 05:16:40,"D4010","Andeavor employee","Yes",5.21990740740741
+418,2017-10-09 06:09:11,"H3530","Indeed.com","Yes",5.25637731481481
+419,2017-10-09 07:18:56,"K1459","Andeavor website or mailing","Yes",5.30481481481482
+420,2017-10-09 09:56:50,"P3131","Personal referral","Yes",5.41446759259259
+421,2017-10-09 11:14:08,"R9531","Andeavor website or mailing","Yes",5.46814814814815
+422,2017-10-09 12:13:07,"M6543","Personal referral","Yes",5.5091087962963
+423,2017-10-09 12:53:48,"C7570","Andeavor employee","Yes",5.53736111111111
+424,2017-10-09 13:04:09,"B4406","Andeavor employee","Yes",5.54454861111111
+425,2017-10-09 13:21:37,"H1230","Indeed.com","Yes",5.55667824074074
+426,2017-10-09 14:16:34,"N4951","Andeavor employee","Yes",5.59483796296296
+427,2017-10-09 14:18:39,"B6469","Indeed.com","Yes",5.59628472222222
+428,2017-10-09 14:57:57,"S6424","Andeavor employee","Yes",5.62357638888889
+429,2017-10-09 15:06:52,"M9645","Personal referral","Yes",5.62976851851852
+430,2017-10-09 15:44:11,"S5711","Andeavor employee","Yes",5.65568287037037
+431,2017-10-09 15:53:41,"C9456","Andeavor employee","Yes",5.66228009259259
+432,2017-10-09 16:31:38,"A1435","Andeavor employee","Yes",5.68863425925926
+433,2017-10-09 16:46:46,"A4866","Personal referral","Yes",5.69914351851852
+434,2017-10-09 16:51:54,"B1955","Andeavor employee","Yes",5.70270833333333
+435,2017-10-09 17:11:07,"M0147","Indeed.com","Yes",5.71605324074074
+436,2017-10-09 18:13:35,"M9331","Indeed.com","Yes",5.75943287037037
+437,2017-10-09 18:40:42,"S5263","Online job site (other than Indeed)","Yes",5.77826388888889
+438,2017-10-09 18:50:56,"L3064","Personal referral","Yes",5.78537037037037
+439,2017-10-09 19:04:22,"A9228","Andeavor employee","Yes",5.79469907407407
+440,2017-10-09 19:14:02,"N4025","Andeavor employee","Yes",5.80141203703704
+441,2017-10-09 19:31:42,"R5454","Personal referral","Yes",5.81368055555556
+442,2017-10-09 20:10:01,"L2240","Social media (e.g. Facebook or Twitter)","Yes",5.84028935185185
+443,2017-10-09 20:12:55,NA,"Personal referral","No",5.84230324074074
+444,2017-10-09 20:23:33,"G1195","Personal referral","Yes",5.8496875
+445,2017-10-09 21:27:46,"O9633","I am currently an employee or contractor at Andeavor","Yes",5.89428240740741
+446,2017-10-09 21:31:08,"M9995","Indeed.com","Yes",5.89662037037037
+447,2017-10-09 21:38:36,"H7829","Indeed.com","Yes",5.90180555555556
+448,2017-10-09 21:40:43,"D7617","Indeed.com","Yes",5.90327546296296
+449,2017-10-09 22:13:37,"A9308","Andeavor employee","Yes",5.92612268518519
+450,2017-10-09 22:34:02,"D9939","I am currently an employee or contractor at Andeavor","Yes",5.94030092592593
+451,2017-10-09 22:58:14,"C4265","I am currently an employee or contractor at Andeavor","Yes",5.95710648148148
+452,2017-10-09 23:04:09,"R6553","Andeavor employee","Yes",5.96121527777778
+453,2017-10-09 23:07:04,"M2282","Personal referral","Yes",5.96324074074074
+454,2017-10-09 23:16:34,"G9171","Social media (e.g. Facebook or Twitter)","Yes",5.96983796296296
+455,2017-10-09 23:18:59,"B1280","Personal referral","Yes",5.9715162037037
+456,2017-10-09 23:21:06,"L2747","Indeed.com","Yes",5.97298611111111
+457,2017-10-09 23:27:31,NA,"Personal referral","No",5.97744212962963
+458,2017-10-09 23:41:21,NA,"Andeavor employee","No",5.98704861111111
+459,2017-10-09 23:49:11,NA,"Andeavor website or mailing","No",5.99248842592593
+460,2017-10-09 23:49:36,NA,"Andeavor website or mailing","No",5.99277777777778
+461,2017-10-09 23:52:52,"M0920","Personal referral","Yes",5.9950462962963
+462,2017-10-10 00:31:30,"M0563","Andeavor employee","Yes",6.021875
+463,2017-10-10 01:09:18,"C9047","Personal referral","Yes",6.048125
+464,2017-10-10 01:15:11,"P3854","Indeed.com","Yes",6.05221064814815
+465,2017-10-10 01:15:50,"H9322","Andeavor employee","Yes",6.05266203703704
+466,2017-10-10 01:16:14,"S4580","Personal referral","Yes",6.05293981481481
+467,2017-10-10 01:32:39,"E9740","Personal referral","Yes",6.06434027777778
+468,2017-10-10 01:34:55,"M5134","Andeavor employee","Yes",6.06591435185185
+469,2017-10-10 01:44:42,NA,"Online job site (other than Indeed)","No",6.07270833333333
+470,2017-10-10 02:33:59,"J7505","I am currently an employee or contractor at Andeavor","Yes",6.10693287037037
+471,2017-10-10 02:41:15,"K9890","Andeavor website or mailing","Yes",6.11197916666667
+472,2017-10-10 03:27:38,"B0442","Indeed.com","Yes",6.14418981481481
+473,2017-10-10 03:46:19,"B5413","Indeed.com","Yes",6.15716435185185
+474,2017-10-10 08:50:43,"J0701","Social media (e.g. Facebook or Twitter)","Yes",6.36855324074074
+475,2017-10-10 09:53:02,"R4200","I am currently an employee or contractor at Andeavor","Yes",6.4118287037037
+476,2017-10-10 11:03:22,"S9453","Andeavor employee","Yes",6.4606712962963
+477,2017-10-10 12:08:11,"F6733","Indeed.com","Yes",6.50568287037037
+478,2017-10-10 12:24:05,"P1613","I am currently an employee or contractor at Andeavor","Yes",6.51672453703704
+479,2017-10-10 13:30:47,NA,"Social media (e.g. Facebook or Twitter)","No",6.56304398148148
+480,2017-10-10 13:44:54,"S4918","Social media (e.g. Facebook or Twitter)","Yes",6.57284722222222
+481,2017-10-10 13:55:13,"G5762","Social media (e.g. Facebook or Twitter)","Yes",6.58001157407407
+482,2017-10-10 14:02:40,"T0592","Indeed.com","Yes",6.58518518518519
+483,2017-10-10 14:04:53,NA,"Personal referral","No",6.58672453703704
+484,2017-10-10 14:05:27,"S3583","I am currently an employee or contractor at Andeavor","Yes",6.58711805555556
+485,2017-10-10 14:27:36,"B2337","Personal referral","Yes",6.6025
+486,2017-10-10 14:57:23,"E5490","Personal referral","Yes",6.62318287037037
+487,2017-10-10 15:30:28,"M3248","Indeed.com","Yes",6.64615740740741
+488,2017-10-10 17:14:11,"B0024","Andeavor employee","Yes",6.71818287037037
+489,2017-10-10 18:05:08,NA,"Social media (e.g. Facebook or Twitter)","No",6.75356481481481
+490,2017-10-10 18:10:40,"F1676","Social media (e.g. Facebook or Twitter)","Yes",6.75740740740741
+491,2017-10-10 18:12:49,"S9361","Personal referral","Yes",6.75890046296296
+492,2017-10-10 18:26:18,NA,"Andeavor employee","No",6.76826388888889
+493,2017-10-10 19:32:16,"J4193","Personal referral","Yes",6.81407407407407
+494,2017-10-10 19:57:06,"B8232","Personal referral","Yes",6.83131944444444
+495,2017-10-10 20:02:45,"H2121","Social media (e.g. Facebook or Twitter)","Yes",6.83524305555556
+496,2017-10-10 20:13:57,"R6947","Andeavor employee","Yes",6.84302083333333
+497,2017-10-10 20:32:55,"C7196","Andeavor employee","Yes",6.85619212962963
+498,2017-10-10 21:00:09,"K6678","Personal referral","Yes",6.87510416666667
+499,2017-10-10 21:11:31,NA,"Personal referral","No",6.88299768518519
+501,2017-10-10 21:34:17,"M9942","Personal referral","Yes",6.89880787037037
+502,2017-10-10 21:41:08,"G5198","Personal referral","Yes",6.90356481481481
+503,2017-10-10 22:16:02,"M3363","Personal referral","Yes",6.92780092592593
+504,2017-10-10 22:19:48,"Y8936","Indeed.com","Yes",6.93041666666667
+505,2017-10-10 22:54:38,"G6507","Personal referral","Yes",6.95460648148148
+506,2017-10-10 23:04:44,"S4573","Online job site (other than Indeed)","Yes",6.96162037037037
+507,2017-10-10 23:22:17,"H8943","Indeed.com","Yes",6.97380787037037
+508,2017-10-10 23:22:33,"G3789","Andeavor employee","Yes",6.97399305555556
+509,2017-10-10 23:49:11,"B8884","Andeavor employee","Yes",6.99248842592593
+510,2017-10-10 23:57:24,"T3074","Andeavor website or mailing","Yes",6.99819444444444
+511,2017-10-10 23:59:01,NA,"Personal referral","No",6.99931712962963
+512,2017-10-11 00:09:49,"J1963","Indeed.com","Yes",7.00681712962963
+513,2017-10-11 00:11:43,"H1968","Andeavor employee","Yes",7.00813657407407
+514,2017-10-11 00:33:39,"R5214","Indeed.com","Yes",7.02336805555556
+515,2017-10-11 01:04:59,"Q4906","Andeavor employee","Yes",7.04512731481482
+516,2017-10-11 01:12:35,"E1468","Social media (e.g. Facebook or Twitter)","Yes",7.05040509259259
+517,2017-10-11 02:04:11,"J7165","Indeed.com","Yes",7.08623842592593
+518,2017-10-11 03:10:06,"S5417","Andeavor employee","Yes",7.13201388888889
+519,2017-10-11 03:45:32,"Y1738","Andeavor employee","Yes",7.15662037037037
+520,2017-10-11 09:33:01,"W9151","Indeed.com","Yes",7.39792824074074
+521,2017-10-11 09:39:19,"M0412","Personal referral","Yes",7.40230324074074
+522,2017-10-11 12:01:49,"C4038","Andeavor employee","Yes",7.50126157407407
+523,2017-10-11 12:34:48,NA,"Andeavor website or mailing","No",7.52416666666667
+524,2017-10-11 12:48:04,"H1761","Personal referral","Yes",7.53337962962963
+525,2017-10-11 13:21:50,"A7521","Personal referral","Yes",7.5568287037037
+526,2017-10-11 13:34:01,"R3078","Social media (e.g. Facebook or Twitter)","Yes",7.56528935185185
+527,2017-10-11 14:52:12,NA,"Personal referral","No",7.61958333333333
+528,2017-10-11 15:28:22,"A2011","Recruiting organization","Yes",7.64469907407407
+529,2017-10-11 15:30:12,"W5228","Indeed.com","Yes",7.64597222222222
+530,2017-10-11 15:46:10,NA,"Andeavor employee","No",7.65706018518518
+531,2017-10-11 15:56:08,"V1387","Social media (e.g. Facebook or Twitter)","Yes",7.66398148148148
+532,2017-10-11 16:21:53,"F6382","Personal referral","Yes",7.68186342592593
+533,2017-10-11 17:06:00,"D4902","Andeavor employee","Yes",7.7125
+534,2017-10-11 18:32:25,"J2202","Indeed.com","Yes",7.77251157407407
+535,2017-10-11 19:15:19,"R9995","Andeavor website or mailing","Yes",7.80230324074074
+536,2017-10-11 20:25:43,"B2005","Indeed.com","Yes",7.85119212962963
+537,2017-10-11 21:06:06,"L6518","Indeed.com","Yes",7.87923611111111
+539,2017-10-11 22:15:19,NA,"Andeavor website or mailing","No",7.92730324074074
+540,2017-10-11 22:16:00,NA,"Andeavor website or mailing","No",7.92777777777778
+541,2017-10-11 22:18:29,NA,"Indeed.com","No",7.92950231481481
+542,2017-10-11 23:06:18,"R3592","I am currently an employee or contractor at Andeavor","Yes",7.96270833333333
+543,2017-10-11 23:16:19,"M2278","Personal referral","Yes",7.96966435185185
+544,2017-10-11 23:54:04,"S2952","Personal referral","Yes",7.99587962962963
+545,2017-10-12 00:03:03,"B3712","Andeavor employee","Yes",8.00211805555556
+546,2017-10-12 00:34:03,"S2423","Andeavor employee","Yes",8.02364583333333
+547,2017-10-12 00:38:29,"C4048","Personal referral","Yes",8.02672453703704
+548,2017-10-12 00:43:33,"D1074","Andeavor employee","Yes",8.03024305555556
+549,2017-10-12 01:14:43,"C7212","Andeavor employee","Yes",8.05188657407407
+550,2017-10-12 02:21:44,"S1165","Personal referral","Yes",8.09842592592593
+551,2017-10-12 02:28:28,NA,"Indeed.com","No",8.10310185185185
+552,2017-10-12 03:28:29,"H0974","Indeed.com","Yes",8.14478009259259
+553,2017-10-12 08:22:14,"Y5395","Personal referral","Yes",8.34877314814815
+554,2017-10-12 11:41:46,"M5608","Indeed.com","Yes",8.48733796296296
+555,2017-10-12 12:45:39,"K5787","Personal referral","Yes",8.53170138888889
+556,2017-10-12 13:02:00,"R4864","Indeed.com","Yes",8.54305555555556
+557,2017-10-12 13:21:21,"J3244","Social media (e.g. Facebook or Twitter)","Yes",8.55649305555556
+558,2017-10-12 13:51:17,"B2804","Personal referral","Yes",8.57728009259259
+559,2017-10-12 15:26:07,"G4120","Indeed.com","Yes",8.64313657407407
+560,2017-10-12 15:42:23,"K6063","Andeavor employee","Yes",8.65443287037037
+561,2017-10-12 16:23:43,"B9362","Indeed.com","Yes",8.68313657407407
+562,2017-10-12 17:16:22,"R0688","Indeed.com","Yes",8.71969907407407
+563,2017-10-12 17:22:40,NA,"Personal referral","No",8.72407407407407
+564,2017-10-12 17:43:21,"B4857","Andeavor employee","Yes",8.7384375
+565,2017-10-12 18:18:36,"O2200","Indeed.com","Yes",8.76291666666667
+566,2017-10-12 18:25:33,NA,"Online job site (other than Indeed)","No",8.76774305555556
+567,2017-10-12 18:56:02,"V0723","Indeed.com","Yes",8.78891203703704
+568,2017-10-12 19:21:33,NA,"Don't remember","No",8.80663194444444
+569,2017-10-12 19:23:45,NA,"Don't remember","No",8.80815972222222
+570,2017-10-12 19:29:02,"G7000","Andeavor website or mailing","Yes",8.8118287037037
+571,2017-10-12 19:30:26,NA,"Andeavor employee","No",8.81280092592593
+572,2017-10-12 20:24:52,"M6289","Personal referral","Yes",8.85060185185185
+573,2017-10-12 21:43:23,"S2158","Personal referral","Yes",8.90512731481481
+574,2017-10-12 22:14:30,NA,"Indeed.com","No",8.92673611111111
+575,2017-10-12 22:14:51,"W1810","Andeavor employee","Yes",8.92697916666667
+576,2017-10-12 22:37:17,"C0576","Personal referral","Yes",8.94255787037037
+577,2017-10-12 22:40:40,NA,"Indeed.com","No",8.94490740740741
+578,2017-10-12 22:52:47,"C0488","Andeavor employee","Yes",8.95332175925926
+579,2017-10-12 23:50:41,"V1527","Andeavor employee","Yes",8.99353009259259
+580,2017-10-13 00:56:39,"T2851","Indeed.com","Yes",9.03934027777778
+581,2017-10-13 00:58:05,NA,"Online job site (other than Indeed)","No",9.04033564814815
+582,2017-10-13 01:46:37,"S1971","Andeavor website or mailing","Yes",9.07403935185185
+583,2017-10-13 06:56:44,"K6603","Personal referral","Yes",9.28939814814815
+585,2017-10-13 13:23:31,"J5273","Indeed.com","Yes",9.55799768518519
+586,2017-10-13 13:31:34,NA,"Indeed.com","No",9.56358796296296
+587,2017-10-13 13:38:56,"Z3983","Social media (e.g. Facebook or Twitter)","Yes",9.5687037037037
+588,2017-10-13 13:39:51,"S0776","Indeed.com","Yes",9.56934027777778
+589,2017-10-13 13:58:13,"V0332","Personal referral","Yes",9.58209490740741
+590,2017-10-13 15:56:27,"A1027","Personal referral","Yes",9.66420138888889
+591,2017-10-13 16:27:52,NA,"Indeed.com","No",9.68601851851852
+592,2017-10-13 17:02:53,NA,"Indeed.com","No",9.71033564814815
+593,2017-10-13 17:04:37,NA,"Personal referral","No",9.71153935185185
+594,2017-10-13 19:05:21,"M3203","Personal referral","Yes",9.79538194444445
+595,2017-10-13 19:34:55,NA,"Personal referral","No",9.81591435185185
+596,2017-10-13 19:50:06,"C4237","Social media (e.g. Facebook or Twitter)","Yes",9.82645833333333
+597,2017-10-13 20:12:04,"W6349","Andeavor employee","Yes",9.84171296296296
+598,2017-10-13 20:43:28,"T2686","Personal referral","Yes",9.86351851851852
+599,2017-10-13 20:51:20,"G6517","Social media (e.g. Facebook or Twitter)","Yes",9.86898148148148
+600,2017-10-13 23:01:23,"P5500","I am currently an employee or contractor at Andeavor","Yes",9.95929398148148
+601,2017-10-14 00:59:48,"P8018","Indeed.com","Yes",10.0415277777778
+602,2017-10-14 04:32:13,"T2867","Indeed.com","Yes",10.1890393518519
+603,2017-10-14 16:14:56,"D9844","Andeavor employee","Yes",10.677037037037
+604,2017-10-14 18:32:36,"L1676","Social media (e.g. Facebook or Twitter)","Yes",10.7726388888889
+605,2017-10-14 18:55:12,"S9642","Job training program","Yes",10.7883333333333
+606,2017-10-14 19:00:54,"H6456","Indeed.com","Yes",10.7922916666667
+607,2017-10-14 21:17:40,NA,"Indeed.com","No",10.8872685185185
+608,2017-10-14 23:56:12,"R0922","Personal referral","Yes",10.9973611111111
+609,2017-10-15 02:43:43,NA,"Social media (e.g. Facebook or Twitter)","No",11.1136921296296
+611,2017-10-15 14:41:46,"B0587","Indeed.com","Yes",11.612337962963
+612,2017-10-15 20:48:51,NA,"Indeed.com","No",11.8672569444444
+613,2017-10-15 21:23:42,"A2395","Indeed.com","Yes",11.8914583333333
+614,2017-10-15 22:38:57,"S9482","Andeavor employee","Yes",11.9437152777778
+615,2017-10-15 23:01:10,"A1836","Andeavor employee","Yes",11.9591435185185
+616,2017-10-15 23:13:13,"F3948","Job training program","Yes",11.9675115740741
+617,2017-10-15 23:45:24,"Z9805","Andeavor website or mailing","Yes",11.9898611111111
+618,2017-10-16 00:17:51,"L3422","Andeavor employee","Yes",12.0123958333333
+619,2017-10-16 07:19:58,"S8411","Newspaper ad","Yes",12.3055324074074
+620,2017-10-16 10:00:53,NA,"Indeed.com","No",12.4172800925926
+621,2017-10-16 11:46:48,"D6897","Andeavor website or mailing","Yes",12.4908333333333
+622,2017-10-16 12:15:30,"M1922","Personal referral","Yes",12.5107638888889
+623,2017-10-16 13:07:03,"O3297","Indeed.com","Yes",12.5465625
+624,2017-10-16 13:16:22,"M4032","Personal referral","Yes",12.5530324074074
+625,2017-10-16 14:50:13,"M3496","Andeavor employee","Yes",12.6182060185185
+626,2017-10-16 15:14:44,"E4209","Indeed.com","Yes",12.6352314814815
+627,2017-10-16 15:19:41,"B4579","Indeed.com","Yes",12.6386689814815
+628,2017-10-16 16:03:33,"V9617","Personal referral","Yes",12.6691319444444
+629,2017-10-16 16:16:17,"T7228","Indeed.com","Yes",12.677974537037
+630,2017-10-16 16:48:32,"J0273","Indeed.com","Yes",12.7003703703704
+631,2017-10-16 17:03:57,"E6966","Personal referral","Yes",12.7110763888889
+632,2017-10-16 19:29:08,"C5485","I am currently an employee or contractor at Andeavor","Yes",12.8118981481481
+633,2017-10-16 22:42:41,"M2998","Indeed.com","Yes",12.9463078703704
+634,2017-10-16 23:17:15,"M5297","Andeavor website or mailing","Yes",12.9703125
+635,2017-10-16 23:35:56,NA,"Social media (e.g. Facebook or Twitter)","No",12.983287037037
+636,2017-10-16 23:50:10,"J5952","I am currently an employee or contractor at Andeavor","Yes",12.9931712962963
+637,2017-10-17 00:03:11,"C6131","Andeavor employee","Yes",13.0022106481481
+638,2017-10-17 01:38:29,NA,"Indeed.com","No",13.0683912037037
+639,2017-10-17 09:08:00,"A5947","Personal referral","Yes",13.3805555555556
+640,2017-10-17 11:11:20,"P5944","Indeed.com","Yes",13.4662037037037
+641,2017-10-17 13:03:21,"M5718","Indeed.com","Yes",13.5439930555556
+642,2017-10-17 15:16:02,"D1133","Andeavor website or mailing","Yes",13.6361342592593
+643,2017-10-17 16:22:06,NA,"Indeed.com","No",13.6820138888889
+644,2017-10-17 16:23:08,"R5501","Personal referral","Yes",13.6827314814815
+645,2017-10-17 16:45:42,"S4580","I am currently an employee or contractor at Andeavor","Yes",13.6984027777778
+646,2017-10-17 17:23:05,"R4806","Indeed.com","Yes",13.7243634259259
+647,2017-10-17 18:08:02,"D5177","Indeed.com","Yes",13.7555787037037
+648,2017-10-17 18:17:18,"T6091","Indeed.com","Yes",13.7620138888889
+649,2017-10-17 18:45:23,"W4127","Indeed.com","Yes",13.7815162037037
+650,2017-10-17 19:33:11,"B3739","Personal referral","Yes",13.8147106481481
+651,2017-10-17 21:01:19,"B0147","Job training program","Yes",13.8759143518519
+652,2017-10-17 21:03:38,"D8307","Indeed.com","Yes",13.8775231481481
+653,2017-10-17 22:58:51,"H8282","Job training program","Yes",13.9575347222222
+654,2017-10-17 23:32:51,"G9950","Andeavor website or mailing","Yes",13.9811458333333
+655,2017-10-18 01:01:13,"A0615","Andeavor website or mailing","Yes",14.0425115740741
+656,2017-10-18 01:35:48,"C6138","Don't remember","Yes",14.0665277777778
+657,2017-10-18 01:42:32,NA,"Indeed.com","No",14.0712037037037
+658,2017-10-18 01:47:07,"Z0898","Indeed.com","Yes",14.0743865740741
+659,2017-10-18 02:25:18,"D6813","Personal referral","Yes",14.1009027777778
+660,2017-10-18 02:57:12,"R4664","Personal referral","Yes",14.1230555555556
+661,2017-10-18 08:52:02,"D8433","Indeed.com","Yes",14.3694675925926
+662,2017-10-18 13:41:11,"J9894","Indeed.com","Yes",14.5702662037037
+663,2017-10-18 14:12:30,NA,"Indeed.com","No",14.5920138888889
+664,2017-10-18 16:00:17,"C6341","Personal referral","Yes",14.6668634259259
+665,2017-10-18 17:18:31,"B9430","Indeed.com","Yes",14.7211921296296
+666,2017-10-18 17:49:54,"B7957","Personal referral","Yes",14.7429861111111
+667,2017-10-18 18:21:06,NA,"Newspaper ad","No",14.7646527777778
+668,2017-10-18 18:48:55,"M0708","Indeed.com","Yes",14.7839699074074
+669,2017-10-18 19:39:21,"D8030","Andeavor employee","Yes",14.8189930555556
+670,2017-10-18 21:25:40,"N2950","Indeed.com","Yes",14.8928240740741
+671,2017-10-18 21:42:19,"B7553","I am currently an employee or contractor at Andeavor","Yes",14.9043865740741
+672,2017-10-18 21:54:20,"K4587","Indeed.com","Yes",14.9127314814815
+673,2017-10-18 22:07:49,NA,"Indeed.com","No",14.9220949074074
+674,2017-10-18 23:37:40,"S1768","Indeed.com","Yes",14.9844907407407
+675,2017-10-18 23:49:48,NA,"Indeed.com","No",14.9929166666667
+676,2017-10-19 00:08:31,"M4049","Andeavor employee","Yes",15.0059143518519
+677,2017-10-19 00:21:34,"R4074","Indeed.com","Yes",15.0149768518519
+678,2017-10-19 00:25:04,"C5893","Indeed.com","Yes",15.0174074074074
+679,2017-10-19 01:10:02,"D9157","Personal referral","Yes",15.0486342592593
+681,2017-10-19 02:45:58,"A0175","Social media (e.g. Facebook or Twitter)","Yes",15.1152546296296
+682,2017-10-19 14:48:51,"E8495","Social media (e.g. Facebook or Twitter)","Yes",15.6172569444444
+683,2017-10-19 18:47:47,"P6960","Indeed.com","Yes",15.7831828703704
+684,2017-10-19 19:17:23,"S4304","Online job site (other than Indeed)","Yes",15.8037384259259
+685,2017-10-19 19:38:25,"W2117","Personal referral","Yes",15.8183449074074
+686,2017-10-19 23:31:51,"G1583","Andeavor employee","Yes",15.9804513888889
+687,2017-10-20 00:50:58,"F6298","Andeavor website or mailing","Yes",16.0353935185185
+688,2017-10-20 01:10:30,"C7208","I am currently an employee or contractor at Andeavor","Yes",16.0489583333333
+689,2017-10-20 01:28:32,"S3455","Personal referral","Yes",16.0614814814815
+690,2017-10-20 09:07:41,"L9397","Personal referral","Yes",16.3803356481481
+691,2017-10-20 11:33:31,NA,"Indeed.com","No",16.4816087962963
+692,2017-10-20 13:39:24,NA,"Online job site (other than Indeed)","No",16.5690277777778
+693,2017-10-20 15:28:43,"L3629","Recruiting organization","Yes",16.6449421296296
+694,2017-10-20 16:49:45,NA,"Indeed.com","No",16.7012152777778
+695,2017-10-20 16:54:14,"B4885","Indeed.com","Yes",16.7043287037037
+696,2017-10-20 17:29:23,"B2798","Personal referral","Yes",16.7287384259259
+697,2017-10-20 19:09:46,"D4119","Online job site (other than Indeed)","Yes",16.7984490740741
+698,2017-10-20 21:58:44,"H1325","Indeed.com","Yes",16.915787037037
+699,2017-10-20 22:26:18,"Y1147","Indeed.com","Yes",16.9349305555556
+700,2017-10-21 00:56:10,NA,"Online job site (other than Indeed)","No",17.0390046296296
+701,2017-10-21 01:03:06,"C4398","I am currently an employee or contractor at Andeavor","Yes",17.0438194444444
+702,2017-10-21 01:21:55,NA,"Indeed.com","No",17.0568865740741
+703,2017-10-21 01:25:54,"A8717","Personal referral","Yes",17.0596527777778
+704,2017-10-21 09:06:03,NA,"Indeed.com","No",17.3792013888889
+705,2017-10-21 10:52:58,"R5444","Social media (e.g. Facebook or Twitter)","Yes",17.4534490740741
+706,2017-10-21 13:44:10,"W5979","Social media (e.g. Facebook or Twitter)","Yes",17.572337962963
+708,2017-10-21 19:29:20,"R3415","Social media (e.g. Facebook or Twitter)","Yes",17.812037037037
+709,2017-10-21 19:39:18,"B5671","Indeed.com","Yes",17.8189583333333
+710,2017-10-21 23:20:24,NA,"Andeavor employee","No",17.9725
+711,2017-10-21 23:31:39,"H3280","Personal referral","Yes",17.9803125
+712,2017-10-22 15:07:50,"S3074","Indeed.com","Yes",18.6304398148148
+713,2017-10-22 20:32:38,"V5719","Indeed.com","Yes",18.8559953703704
+714,2017-10-22 21:31:42,"F4529","Andeavor employee","Yes",18.8970138888889
+715,2017-10-22 22:47:05,"R5240","Indeed.com","Yes",18.9493634259259
+716,2017-10-23 00:33:37,"H3973","Indeed.com","Yes",19.0233449074074
+717,2017-10-23 00:44:10,"L3993","I am currently an employee or contractor at Andeavor","Yes",19.0306712962963
+718,2017-10-23 01:18:31,"S9051","Social media (e.g. Facebook or Twitter)","Yes",19.054525462963
+719,2017-10-23 07:04:36,NA,"Andeavor employee","No",19.2948611111111
+720,2017-10-23 12:56:33,"A3984","Indeed.com","Yes",19.5392708333333
+721,2017-10-23 13:36:41,"G8658","Online job site (other than Indeed)","Yes",19.5671412037037
+722,2017-10-23 15:15:24,"C9207","Andeavor website or mailing","Yes",19.6356944444444
+723,2017-10-23 15:42:07,"W9439","Personal referral","Yes",19.6542476851852
+724,2017-10-23 15:58:58,"F4851","I am currently an employee or contractor at Andeavor","Yes",19.6659490740741
+725,2017-10-23 16:15:28,"C2248","Indeed.com","Yes",19.6774074074074
+726,2017-10-23 16:19:29,"A2964","Personal referral","Yes",19.6801967592593
+728,2017-10-23 23:05:03,"H3050","Andeavor employee","Yes",19.9618402777778
+729,2017-10-23 23:19:41,NA,"Personal referral","No",19.9720023148148
+730,2017-10-23 23:24:24,"K4733","Indeed.com","Yes",19.9752777777778
+731,2017-10-24 02:12:30,"M2151","Personal referral","Yes",20.0920138888889
+733,2017-10-24 12:04:41,"R5186","Indeed.com","Yes",20.5032523148148
+734,2017-10-24 14:10:26,"H2591","Personal referral","Yes",20.5905787037037
+735,2017-10-24 18:18:33,"H5822","Indeed.com","Yes",20.7628819444444
+736,2017-10-24 18:33:08,"G9890","Indeed.com","Yes",20.7730092592593
+737,2017-10-24 18:39:22,NA,"Personal referral","No",20.777337962963
+738,2017-10-24 19:12:42,"L2998","Personal referral","Yes",20.8004861111111
+739,2017-10-24 19:35:46,"L9847","Personal referral","Yes",20.8165046296296
+740,2017-10-24 20:32:19,"H8834","I am currently an employee or contractor at Andeavor","Yes",20.855775462963
+741,2017-10-24 23:12:19,"A5461","Indeed.com","Yes",20.9668865740741
+742,2017-10-24 23:22:44,"E5485","Indeed.com","Yes",20.9741203703704
+743,2017-10-24 23:57:14,"R1094","Indeed.com","Yes",20.9980787037037
+744,2017-10-25 00:22:10,"D7511","Indeed.com","Yes",21.0153935185185
+745,2017-10-25 00:55:41,NA,"Indeed.com","No",21.0386689814815
+746,2017-10-25 02:02:32,"W0724","Indeed.com","Yes",21.0850925925926
+747,2017-10-25 10:12:48,"B2624","Andeavor website or mailing","Yes",21.4255555555556
+748,2017-10-25 11:47:25,"B7169","Personal referral","Yes",21.4912615740741
+749,2017-10-25 12:19:46,"A6481","Indeed.com","Yes",21.5137268518519
+751,2017-10-25 15:24:56,"G7805","Indeed.com","Yes",21.6423148148148
+752,2017-10-25 16:14:24,NA,"Indeed.com","No",21.6766666666667
+753,2017-10-25 18:58:11,"T9774","Indeed.com","Yes",21.7904050925926
+754,2017-10-25 19:09:01,NA,"Indeed.com","No",21.7979282407407
+755,2017-10-25 19:18:05,"S5522","Indeed.com","Yes",21.804224537037
+756,2017-10-25 19:29:52,"G0055","Andeavor employee","Yes",21.8124074074074
+757,2017-10-25 20:09:02,"F5519","Andeavor employee","Yes",21.8396064814815
+758,2017-10-25 21:10:29,"C5917","Indeed.com","Yes",21.8822800925926
+759,2017-10-25 23:25:40,"G4173","Personal referral","Yes",21.9761574074074
+760,2017-10-25 23:36:43,NA,"Indeed.com","No",21.9838310185185
+761,2017-10-26 00:31:25,NA,"Indeed.com","No",22.0218171296296
+762,2017-10-26 05:41:38,"S5826","Social media (e.g. Facebook or Twitter)","Yes",22.2372453703704
+763,2017-10-26 11:38:59,"R0552","Indeed.com","Yes",22.4854050925926
+764,2017-10-26 12:14:28,"S4736","Andeavor website or mailing","Yes",22.5100462962963
+765,2017-10-26 13:25:11,"H6603","Andeavor employee","Yes",22.5591550925926
+766,2017-10-26 14:37:04,NA,"Indeed.com","No",22.6090740740741
+767,2017-10-26 14:43:40,"O3521","Personal referral","Yes",22.6136574074074
+768,2017-10-26 16:01:36,NA,"Social media (e.g. Facebook or Twitter)","No",22.6677777777778
+769,2017-10-26 16:04:53,NA,"Social media (e.g. Facebook or Twitter)","No",22.6700578703704
+770,2017-10-26 16:28:34,"L2099","Indeed.com","Yes",22.6865046296296
+771,2017-10-26 17:31:37,"P3631","Indeed.com","Yes",22.7302893518519
+772,2017-10-26 17:35:24,"P8869","Personal referral","Yes",22.7329166666667
+773,2017-10-26 19:27:51,NA,"Indeed.com","No",22.8110069444444
+774,2017-10-26 22:56:04,"S2044","Indeed.com","Yes",22.9556018518519
+775,2017-10-27 00:37:37,"H7188","Indeed.com","Yes",23.0261226851852
+776,2017-10-27 01:36:06,NA,"Personal referral","No",23.0667361111111
+777,2017-10-27 11:15:39,"B1307","Indeed.com","Yes",23.4692013888889
+779,2017-10-27 14:04:18,NA,"Indeed.com","No",23.5863194444444
+780,2017-10-27 14:23:58,NA,"Don't remember","No",23.5999768518519
+781,2017-10-27 15:27:58,"W2227","Don't remember","Yes",23.6444212962963
+782,2017-10-27 16:06:01,"M5451","Personal referral","Yes",23.6708449074074
+783,2017-10-27 17:43:45,"M1049","Don't remember","Yes",23.7387152777778
+784,2017-10-27 18:39:07,"M9361","Indeed.com","Yes",23.7771643518519
+785,2017-10-27 19:53:33,"S8886","Personal referral","Yes",23.8288541666667
+786,2017-10-28 00:48:53,"M4681","I am currently an employee or contractor at Andeavor","Yes",24.0339467592593
