@@ -150,6 +150,7 @@ server <- function(input, output) {
   
   # Show the table
   output$view <- renderPrint({
-    print_ztable(datasetInput())
+    #print.ztable(datasetInput())
+    print(i)
   })
 }
