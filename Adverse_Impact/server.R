@@ -132,7 +132,7 @@ server <- function(input, output) {
       #Make the ztable
       options(ztable.colnames.bold=TRUE, ztable.caption.bold = TRUE)
       options(ztable.zebra=NULL)
-      #options(ztable.type="html")
+      options(ztable.type="html")
       combined_ztab <- combined_tab %>% ztable(digits = 2, align="llllcc", caption=Table_title,
                                                caption.position="left",
                                                caption.placement="top",
