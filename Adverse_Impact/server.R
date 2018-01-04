@@ -10,11 +10,10 @@ library(ztable)
 component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs", 
                     "In-Person Invite", "Work Demo Competion", "Work Demo",
                     "Interview", "Post Interview Offer Extended", "Offer Accepted")
-df_background <- data.frame(read.csv("/srv/shiny-server/Adverse_Impact/df_background.csv", header = TRUE, sep = ",")) 
+df_background <- data.frame(read.csv("df_background.csv", header = TRUE, sep = ",")) 
 
 # Define server logic required to view the selected dataset
 server <- function(input, output) {
-  output$view <- renderPrint({
     # Return the requested dataset
     datasetInput <- reactive({
       code_check <- which(component_name == input$dataset)
@@ -145,7 +144,10 @@ server <- function(input, output) {
       rgroup <- c("Race", "Gender", "All Participants")
       n.rgroup <- c(nrow_race, nrow_gender-1, 1)
       combined_ztab <- combined_ztab %>% addrgroup(rgroup=rgroup, n.rgroup=n.rgroup, cspan.rgroup=1)
+      print.ztable(combined_ztab)
     })
-    print.ztable(datasetInput())
-  })
+    output$view <- renderPrint({
+      datasetInput()
+      
+    })
 }
