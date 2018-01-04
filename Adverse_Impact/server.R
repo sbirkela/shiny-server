@@ -14,7 +14,7 @@ component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs",
 
 # Define server logic required to view the selected dataset
 server <- function(input, output) {
-  df_background <- data.frame(read.csv("df_background.csv", header = TRUE, sep = ",")) 
+  df_background <- data.frame(read.csv("/srv/shiny-server/Adverse_Impact/df_background.csv", header = TRUE, sep = ",")) 
   # Return the requested dataset
   datasetInput <- reactive({
     code_check <- which(component_name == input$dataset)
