@@ -50,6 +50,6 @@ ui <- fluidPage(
   # number of observations
   mainPanel(
     headerPanel(paste(location, " - Adverse Impact Analysis", sep = "")),
-    verbatimTextOutput("view")
+    tableOutput("view")
   )
 ))
