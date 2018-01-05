@@ -9,7 +9,7 @@ library(ztable)
 
 #USER ENTRY SECTION____________________________________________________________________
 
-df_background <- data.frame(read.csv("df_background.csv", header = TRUE, sep = ","))
+df_background <- data.frame(read.csv("/srv/shiny-server/Adverse_Impact/df_background.csv", header = TRUE, sep = ","))
 
 #This should be done by hand to ensure order is correct
 component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs", 
