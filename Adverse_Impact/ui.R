@@ -54,7 +54,7 @@ ui <- dashboardPage(
     fluidRow(h5("Caution: Even though the testing above might show evidence of adverse impact, it is important to note that these are only initial tests of adverse impact. More 
        detailed analyses are often conducted (e.g. logistical regression to control for applicant characteristics) to determine the full extent of adverse impact. Finally, it is important 
        to note that evidence of adverse impact does not automatically make a selection process 'illegal.' It does, however, mean that the hiring process should have strong validation 
-       evidence that the selection procedure are job related for the position in question and consistent with business necessity."))
+       evidence that the selection procedures are job related for the position in question and consistent with business necessity."))
     )
     ) 
 )
