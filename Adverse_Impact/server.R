@@ -1,4 +1,5 @@
 library(shiny)
+library(shinydashboard)
 library(readxl)
 library(dplyr)
 library(stringr)
@@ -6,11 +7,12 @@ library(exact2x2)
 library(janitor)
 library(ztable)
 
-
+location <- "Martinez"
 component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs", 
                     "In-Person Invite", "Work Demo Competion", "Work Demo",
                     "Interview", "Post Interview Offer Extended", "Offer Accepted")
-df_background <- data.frame(read.csv("/srv/shiny-server/Adverse_Impact/df_background.csv", header = TRUE, sep = ","))
+
+df_background <- data.frame(read.csv("df_background.csv", header = TRUE, sep = ",")) 
 
 # Define server logic required to view the selected dataset
 server <- function(input, output) {
@@ -25,8 +27,7 @@ server <- function(input, output) {
       
       
       #Create frequency count table with Tabyl
-      Table_title <- paste("Hiring Step - ", component_name[[code_check]], sep = "")
-      #Table_title <- component_name[[code_check]]
+      #Table_title <- paste("Hiring Step - ", component_name[[code_check]], sep = "")
       race_tab_raw <- df_background %>% 
         tabyl(Race, Outcome)
       
@@ -133,12 +134,13 @@ server <- function(input, output) {
       options(ztable.colnames.bold=TRUE, ztable.caption.bold = TRUE)
       options(ztable.zebra=NULL)
       options(ztable.type="html")
-      combined_ztab <- combined_tab %>% ztable(digits = 2, align="llllcc", caption=Table_title,
-                                               caption.position="left",
-                                               caption.placement="top",
+      combined_ztab <- combined_tab %>% ztable(digits = 2, align="llllcc", position = "l",
+                                               #caption=Table_title,
+                                               #caption.position="left",
+                                               #caption.placement="top",
                                                include.rownames=FALSE)
       
-      cgroup <- c(" ", "Applicant Status", "80% Test", "Stat Test")
+      cgroup <- c(" ", "Applicant Status", "80% Test (1)", "Stat Test (2)")
       n.cgroup <- c(1,2,1,1)
       combined_ztab <- combined_ztab %>% addcgroup(cgroup=cgroup, n.cgroup=n.cgroup)
       rgroup <- c("Race", "Gender", "All Participants")
@@ -146,8 +148,9 @@ server <- function(input, output) {
       combined_ztab <- combined_ztab %>% addrgroup(rgroup=rgroup, n.rgroup=n.rgroup, cspan.rgroup=1)
       print.ztable(combined_ztab)
     })
+    output$top_title <- renderUI(h3(strong(paste(location, " - Adverse Impact Analysis"))))
+    output$sub_title <- renderUI(h4(em(strong(paste("Hiring Step - ", input$dataset)))))
     output$view <- renderPrint({
       datasetInput()
-      
     })
 }
