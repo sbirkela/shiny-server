@@ -13,7 +13,7 @@ component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs",
                     "Interview", "Post Interview Offer Extended", "Offer Accepted")
 applicant_characteristic <- c("Background", "Degree", "Referral", "Military", "Race", "Gender")
 
-df_background <- data.frame(read.csv("df_background.csv", header = TRUE, sep = ",")) 
+df_background <- data.frame(read.csv("/srv/shiny-server/Process_Flow/df_background.csv", header = TRUE, sep = ",")) 
 
 # Define server logic required to view the selected dataset
 server <- function(input, output) {
