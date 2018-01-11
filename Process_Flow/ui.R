@@ -13,7 +13,7 @@ df_background <- data.frame(read.csv("/srv/shiny-server/Process_Flow/df_backgrou
 
 #This should be done by hand to ensure order is correct
 component_name <- c("Pre-screening", "JST Invite", "JST Completion", "JSTs", 
-                    "In-Person Invite", "Work Demo Competion", "Work Demo",
+                    "In-Person Invite", "Work Demo Completion", "Work Demo",
                     "Interview", "Post Interview Offer Extended", "Offer Accepted")
 applicant_characteristic <- c("Background", "Degree", "Referral", "Military", "Race", "Gender")
 
