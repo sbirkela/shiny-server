@@ -2,8 +2,12 @@
 library(shiny)
 library(DT)
 
+#overall_earnings <- read.csv("/srv/shiny-server/Golfstandings/overall_earnings.csv")
+#golfer_detail <- read.csv("/srv/shiny-server/Golfstandings/golfer_detail2.csv")
+#roster <- read.csv("/srv/shiny-server/Golfstandings/roster.csv") 
+#tourney_ID_list <- read.csv("/srv/shiny-server/Golfstandings/tourney_ID_list.csv")
+
 overall_earnings <- read.csv("overall_earnings.csv")
-majors_earnings <- read.csv("majors_earnings.csv")
 golfer_detail <- read.csv("golfer_detail2.csv")
 roster <- read.csv("roster.csv") 
 tourney_ID_list <- read.csv("tourney_ID_list.csv")
@@ -17,9 +21,9 @@ ui <- fluidPage(
     sidebarLayout(     
       sidebarPanel(
         selectInput("report_input", label = "Select a Report",
-                    choices = c("Overall_Standings", "Majors_Standings", "Team_Detail"),
+                    choices = c("Overall_Standings", "Team_Detail"),
                     selected = "Overall_Standings"),
-                    width = 3),
+                    width = 2),
       mainPanel(DT::dataTableOutput("standings_table")
 )
 )
@@ -29,20 +33,15 @@ server <- function(input, output)
     if (input$report_input == "Overall_Standings") {
       df <- overall_earnings
       currency_col <- 'Total_Earnings'
-      page_length <- 52
-    }
-    if (input$report_input == "Majors_Standings") {
-      df <- majors_earnings
-      currency_col <- 'Majors_Total'
-      page_length <- 52
+      page_length <- 42
     }
     if (input$report_input == "Team_Detail") {
       df <- golfer_detail
-      currency_col <- c('Jan.26.29', 'Feb.2.5', 'Feb.9.12', 'Feb.16.19', 'Feb.23.26', 'Mar.2.5', 'Mar.9.12', 'Mar.16.19', 'Mar.22.26', 'Mar.30.Apr.2', 'Apr.6.9.Masters', 'Apr.13.16', 'Apr.20.23', 'Apr.27.30', 'May.4.7', 'May.11.14', 'May.18.21', 'May.25.28', 'Jun.1.4', 'Jun.8.11', 'Jun.15.18U.S.Open', 'Jun.22.25', 'Jun.29.Jul.2', 'Jul.6.9', 'Jul.13.16', 'Jul.20.23.British.Open', 'Jul.20.23', 'Jul.27.30', 'Aug.3.6', 'Aug.10.13.PGA', 'Aug.17.20', 'Aug.24.27', 'Sep.1.4', 'Sep.14.17', 'Sep.21.24', 'Total')
-      page_length <- 312
+      currency_col <- c('Jan.25.28', 'Feb.1.4', 'Feb.8.11', 'Feb.15.18', 'Feb.22.25', 'Mar.1.4', 'Mar.8.11', 'Mar.15.18', 'Mar.21.25', 'Mar.29.Apr.1', 'Apr.5.8.Masters', 'Apr.12.15', 'Apr.19.22', 'May.3.6', 'May.10.13', 'May.17.20', 'May.24.27', 'May.31.Jun.3', 'Jun.7.10', 'Jun.14.17.U.S.Open', 'Jun.21.24', 'Jun.28.Jul.1', 'Jul.5.8', 'Jul.12.15', 'Jul.19.22.British.Open', 'Jul.26.29', 'Aug.2.5Barracuda', 'Aug.2.5WGC', 'Aug.9.12.PGA', 'Aug.16.19', 'Aug.23.26', 'Aug.31.Sep.3', 'Sep.6.9', 'Sep.20.23')
+      page_length <- 294
       }
 
-    datatable(df, options = list(pageLength = page_length), rownames = FALSE, caption = paste("Results updated through ", colnames(roster)[length(tourney_ID_list$x) + 16], sep = "") ) %>% formatCurrency(currency_col)
+    datatable(df, options = list(pageLength = page_length), rownames = FALSE, caption = paste("Results updated through ", colnames(roster)[length(tourney_ID_list$x) + 2], sep = "") ) %>% formatCurrency(currency_col)
       })
 
   
