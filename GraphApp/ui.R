@@ -1,5 +1,5 @@
 shinyUI(fluidPage(
-  titlePanel("Data Visualization in R"),
+  titlePanel("HireScore Data Visualization App"),
   
   sidebarLayout(
     sidebarPanel(
