@@ -1,0 +1,41 @@
+Step,count,percent,color,Status,group,xpoint,x,y
+9,3,0.08,#27A8FF,Offer accepted,1,x1,0.46,2
+9,3,0.08,#27A8FF,Offer accepted,1,x2,0.46,1
+9,3,0.08,#27A8FF,Offer accepted,1,x3,0.54,1
+9,3,0.08,#27A8FF,Offer accepted,1,x4,0.54,2
+8,7,0.18,#363636,Passed Interview,2,x1,0.41000000000000003,3
+8,7,0.18,#363636,Passed Interview,2,x2,0.46,2
+8,7,0.18,#363636,Passed Interview,2,x3,0.54,2
+8,7,0.18,#363636,Passed Interview,2,x4,0.5900000000000001,3
+7,8,0.2,#404040,Completed Interview,3,x1,0.4,4
+7,8,0.2,#404040,Completed Interview,3,x2,0.41000000000000003,3
+7,8,0.2,#404040,Completed Interview,3,x3,0.5900000000000001,3
+7,8,0.2,#404040,Completed Interview,3,x4,0.6000000000000001,4
+6,9,0.22,#595959,Passed Work Demo,4,x1,0.39,5
+6,9,0.22,#595959,Passed Work Demo,4,x2,0.4,4
+6,9,0.22,#595959,Passed Work Demo,4,x3,0.6000000000000001,4
+6,9,0.22,#595959,Passed Work Demo,4,x4,0.61,5
+5,16,0.4,#737373,Completed Work Demo,5,x1,0.3,6
+5,16,0.4,#737373,Completed Work Demo,5,x2,0.39,5
+5,16,0.4,#737373,Completed Work Demo,5,x3,0.61,5
+5,16,0.4,#737373,Completed Work Demo,5,x4,0.7,6
+4,17,0.42,#8C8C8C,Invited to Interview/Work Demo,6,x1,0.29000000000000004,7
+4,17,0.42,#8C8C8C,Invited to Interview/Work Demo,6,x2,0.3,6
+4,17,0.42,#8C8C8C,Invited to Interview/Work Demo,6,x3,0.7,6
+4,17,0.42,#8C8C8C,Invited to Interview/Work Demo,6,x4,0.71,7
+3,24,0.6,#A6A6A6,Passed JSTs,7,x1,0.2,8
+3,24,0.6,#A6A6A6,Passed JSTs,7,x2,0.29000000000000004,7
+3,24,0.6,#A6A6A6,Passed JSTs,7,x3,0.71,7
+3,24,0.6,#A6A6A6,Passed JSTs,7,x4,0.8,8
+2,33,0.82,#BFBFBF,Completed JSTs,8,x1,0.09000000000000002,9
+2,33,0.82,#BFBFBF,Completed JSTs,8,x2,0.2,8
+2,33,0.82,#BFBFBF,Completed JSTs,8,x3,0.8,8
+2,33,0.82,#BFBFBF,Completed JSTs,8,x4,0.9099999999999999,9
+1,37,0.92,#D9D9D9,Invited to JSTs,9,x1,0.03999999999999998,10
+1,37,0.92,#D9D9D9,Invited to JSTs,9,x2,0.09000000000000002,9
+1,37,0.92,#D9D9D9,Invited to JSTs,9,x3,0.9099999999999999,9
+1,37,0.92,#D9D9D9,Invited to JSTs,9,x4,0.96,10
+0,40,1,#F2F2F2,Total Applicants,10,x1,0,11
+0,40,1,#F2F2F2,Total Applicants,10,x2,0.03999999999999998,10
+0,40,1,#F2F2F2,Total Applicants,10,x3,0.96,10
+0,40,1,#F2F2F2,Total Applicants,10,x4,1,11
