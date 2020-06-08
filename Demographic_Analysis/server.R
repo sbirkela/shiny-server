@@ -10,7 +10,7 @@ shinyServer(function(input, output) {
   
 
   output$x1 <-  DT::renderDataTable({
-    #req(input$upload)
+    req(input$upload)
     raw_df <- read_xlsx(input$upload$datapath)
     
     portal_df <- raw_df %>% select(`First Name`, `Last Name`, `Status`, `Perc BASELINE`, 
@@ -38,7 +38,8 @@ shinyServer(function(input, output) {
 
     
   output$x2 <- DT::renderDataTable({
-        
+    req(input$upload) 
+    req(input$x1_rows_selected)
     raw_df <- read_xlsx(input$upload$datapath)
     
     portal_df <- raw_df %>% select(`First Name`, `Last Name`, `Status`, `Perc BASELINE`, 
@@ -86,7 +87,8 @@ shinyServer(function(input, output) {
     }, server = TRUE)
     
     output$x3 <- DT::renderDataTable({
-      
+      req(input$upload)
+      req(input$x1_rows_selected)
       raw_df <- read_xlsx(input$upload$datapath)
       
       portal_df <- raw_df %>% select(`First Name`, `Last Name`, `Status`, `Perc BASELINE`, 
