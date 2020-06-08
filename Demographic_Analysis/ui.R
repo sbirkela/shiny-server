@@ -20,6 +20,7 @@ sidebar <- dashboardSidebar(
     selectInput("gender_majority", label = "Select gender focal group",
                 choices= c("Male", "Female"),
                 selected = "Male")
+
   )
 )
 
@@ -44,6 +45,10 @@ body <- dashboardBody(
             br(),
             fluidRow(
               column(5, DT::dataTableOutput("x3"))),
+            br(),
+            br(),
+            fluidRow(
+              column(5, downloadButton("Candidate_download", "Download Selected Candidates"))),
     )
     
   )

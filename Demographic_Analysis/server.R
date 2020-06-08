@@ -5,6 +5,7 @@ library(dplyr)
 library(janitor)
 library(shinydashboard)
 library(shinyBS)
+library(writexl)
 
 shinyServer(function(input, output) {
   
@@ -133,5 +134,43 @@ shinyServer(function(input, output) {
       
       datatable(gender_tab, options = list(dom = 't'))
     }, server = TRUE)
+    
+    output$Candidate_download <- downloadHandler(
+      
+      filename = function(){
+        paste("Selected_Candidates.xlsx")
+      },
+      
+      content = function(file){
+      
+      req(input$upload)
+      req(input$x1_rows_selected)
+  
+      raw_df <- read_xlsx(input$upload$datapath)
+      
+      portal_df <- raw_df %>% select(`First Name`, `Last Name`, `Status`, `Perc BASELINE`, 
+                                     `Gender`, 
+                                     `EthnicityAre you of Hispanic or Latino origin?`,
+                                     `What is your race? (Only if Not Hispanic or Latino)`) 
+      
+      portal_df <- portal_df %>% rename(Race = `What is your race? (Only if Not Hispanic or Latino)`) #rename Race variable
+      portal_df <- portal_df %>% rename(Eth_hispanic = `EthnicityAre you of Hispanic or Latino origin?`) #rename Are you of Hispanic or Latino origin variable
+      portal_df$Race <- ifelse(is.na(portal_df$Race), portal_df$Eth_hispanic, portal_df$Race) #if race is left blank fill it in with response from Eth_hispanic
+      portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "Yes, I am Hispanic or Latino", "Hispanic or Latino")) #if original race was NA and yes to Eth_hispanic then code as Hispanic or Latino
+      portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "No, not of Hispanic or Latino", "Choose not to identify")) #if original race was NA and no to Eth_hispanic then code as Choose not to identify
+      portal_df <- portal_df %>% mutate(Race = replace(Race, is.na(Race), "Choose not to identify")) #if both Race and Ethnic_hisp are NA then code as Choose not to identify
+      portal_df <- portal_df %>% mutate(Gender = replace(Gender, is.na(Gender), "Choose not to identify"))
+      portal_df <- portal_df %>% select(-Eth_hispanic)
+      
+      #Only select with status of pending and sort by BASELINE
+      
+      portal_df <- portal_df %>% filter(Status == "Pending")
+      portal_df <- portal_df %>% arrange(desc(`Perc BASELINE`))
+      
+      s <-  input$x1_rows_selected
+      downloaded_data <- portal_df[s,]
+      write_xlsx(downloaded_data, file)
+      }
+       )
     
 })
