@@ -34,7 +34,7 @@ shinyServer(function(input, output) {
     
     
     datatable(portal_df)
-    }, server = FALSE)
+    }, server = TRUE)
 
     
   output$x2 <- DT::renderDataTable({
@@ -83,7 +83,7 @@ shinyServer(function(input, output) {
         race_tab$impact_ratio[race_tab$Race == "Total"] <- NA
         
         datatable(race_tab, options = list(dom = 't'))
-    }, server = FALSE)
+    }, server = TRUE)
     
     output$x3 <- DT::renderDataTable({
       
@@ -130,6 +130,6 @@ shinyServer(function(input, output) {
       gender_tab$impact_ratio[gender_tab$Gender == "Total"] <- NA
       
       datatable(gender_tab, options = list(dom = 't'))
-    }, server = FALSE)
+    }, server = TRUE)
     
 })
