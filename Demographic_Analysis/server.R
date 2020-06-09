@@ -99,7 +99,12 @@ shinyServer(function(input, output) {
         race_tab <- race_tab %>% 
           rename(`Total Selected` = total_selected, `Total Pending` = total_pending, `Selection Rate` = selection_rate, `Impact Ratio` = impact_ratio)
         
-        datatable(race_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE)
+          datatable(race_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE) %>% 
+          formatStyle(
+            'Race',
+            target = 'row',
+            backgroundColor = styleEqual('Total', '#D3D3D3'))
+        
     }, server = FALSE)
 
   
@@ -163,9 +168,18 @@ shinyServer(function(input, output) {
       gender_tab <- gender_tab %>% 
         rename(`Total Selected` = total_selected, `Total Pending` = total_pending, `Selection Rate` = selection_rate, `Impact Ratio` = impact_ratio)
       
-      datatable(gender_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE)
+      #datatable(gender_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE)
+      datatable(gender_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE) %>% 
+        formatStyle(
+        'Gender',
+        target = 'row',
+        backgroundColor = styleEqual('Total', '#D3D3D3'))
+      
     }, server = FALSE)
       
+  #  datatable(df) %>% formatStyle(
+   #   'V1', 'V6',
+    #  backgroundColor = styleEqual(c(0, 1), c('gray', 'yellow'))
 
 #File download_______________________________
     
