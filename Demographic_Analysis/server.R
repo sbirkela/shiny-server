@@ -6,6 +6,7 @@ library(janitor)
 library(shinydashboard)
 library(shinyBS)
 library(writexl)
+library(scales)
 
 shinyServer(function(input, output) {
   
@@ -35,7 +36,7 @@ shinyServer(function(input, output) {
     
     
     datatable(portal_df)
-    }, server = TRUE)
+    }, server = FALSE)
 
 #Race impact table________________________________    
   output$x2 <- DT::renderDataTable({
@@ -96,7 +97,7 @@ shinyServer(function(input, output) {
         race_tab$impact_ratio[race_tab$Race == "Total"] <- NA
         
         datatable(race_tab, options = list(dom = 't'), rownames = FALSE)
-    }, server = TRUE)
+    }, server = FALSE)
 
 #Gender impact table__________________________    
     output$x3 <- DT::renderDataTable({
@@ -156,7 +157,7 @@ shinyServer(function(input, output) {
       gender_tab$impact_ratio[gender_tab$Gender == "Total"] <- NA
       
       datatable(gender_tab, options = list(dom = 't'), rownames = FALSE)
-    }, server = TRUE)
+    }, server = FALSE)
 
 #File download_______________________________
     
