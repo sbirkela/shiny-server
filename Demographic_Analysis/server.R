@@ -96,9 +96,13 @@ shinyServer(function(input, output) {
         race_tab <- race_tab %>% adorn_totals(where = "row")
         race_tab$impact_ratio[race_tab$Race == "Total"] <- NA
         
-        datatable(race_tab, options = list(dom = 't'), rownames = FALSE)
+        race_tab <- race_tab %>% 
+          rename(`Total Selected` = total_selected, `Total Pending` = total_pending, `Selection Rate` = selection_rate, `Impact Ratio` = impact_ratio)
+        
+        datatable(race_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE)
     }, server = FALSE)
 
+  
 #Gender impact table__________________________    
     output$x3 <- DT::renderDataTable({
       req(input$upload)
@@ -156,8 +160,12 @@ shinyServer(function(input, output) {
       gender_tab <- gender_tab %>% adorn_totals(where = "row")
       gender_tab$impact_ratio[gender_tab$Gender == "Total"] <- NA
       
-      datatable(gender_tab, options = list(dom = 't'), rownames = FALSE)
+      gender_tab <- gender_tab %>% 
+        rename(`Total Selected` = total_selected, `Total Pending` = total_pending, `Selection Rate` = selection_rate, `Impact Ratio` = impact_ratio)
+      
+      datatable(gender_tab, options = list(dom = 't', columnDefs = list(list(className = 'dt-center', targets = 1:4))), rownames = FALSE)
     }, server = FALSE)
+      
 
 #File download_______________________________
     

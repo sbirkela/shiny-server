@@ -38,12 +38,12 @@ body <- dashboardBody(
             strong("Applicant Analysis by Race"),
             br(),
             fluidRow(
-              column(6, DT::dataTableOutput("x2"))),
+              column(7, DT::dataTableOutput("x2"))),
             br(),
             strong("Applicant Analysis by Gender"),
             br(),
             fluidRow(
-              column(6, DT::dataTableOutput("x3"))),
+              column(7, DT::dataTableOutput("x3"))),
             br(),
             br(),
             fluidRow(
