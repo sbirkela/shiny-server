@@ -9,7 +9,7 @@ library(writexl)
 
 shinyServer(function(input, output) {
   
-
+#table to select candidates________________________
   output$x1 <-  DT::renderDataTable({
     req(input$upload)
     raw_df <- read_xlsx(input$upload$datapath)
@@ -37,7 +37,7 @@ shinyServer(function(input, output) {
     datatable(portal_df)
     }, server = TRUE)
 
-    
+#Race impact table________________________________    
   output$x2 <- DT::renderDataTable({
     req(input$upload) 
     req(input$x1_rows_selected)
@@ -62,31 +62,43 @@ shinyServer(function(input, output) {
     portal_df <- portal_df %>% filter(Status == "Pending")
     portal_df <- portal_df %>% arrange(desc(`Perc BASELINE`))
     
+    #calculate total number of pending candidates
+  
+    total_tab <- portal_df %>% 
+      group_by(Race) %>% 
+      summarise(total_pending = n()) 
     
-    s <-  input$x1_rows_selected
-        tab1 <- portal_df[s,]
+    #calculate total number of selected candidates
+    selected <-  input$x1_rows_selected
+        tab1 <- portal_df[selected,]
         race_tab <- tab1 %>% 
-        tabyl(Race) %>%
-        arrange(desc(n)) %>% 
-        adorn_pct_formatting(digits = 0) %>% 
-        adorn_totals("row")
+          group_by(Race) %>% 
+          summarise(total_selected = n())
         
-        majority_race_total <- race_tab %>% 
-          filter(Race == input$race_majority)
-        majority_race_total <- majority_race_total %>% select(n) %>% pull()
-        totat_total <- race_tab %>% 
-          filter(Race == "Total")
-        total_total <- totat_total %>% select(n) %>% pull()
+        tab2 <- left_join(total_tab, race_tab, by = "Race") %>% 
+          select(Race, total_selected, total_pending) 
+        tab2$total_selected <- ifelse(is.na(tab2$total_selected), 0, tab2$total_selected)
         
-        race_tab <- race_tab %>% 
-          mutate(impact_ratio = ((n/total_total)/(majority_race_total/total_total)))
-        race_tab <- race_tab %>% 
-          mutate_at(vars(starts_with("impact")), round, 2)
+        tab2 <- tab2 %>% mutate(selection_rate = (total_selected/total_pending))
+        
+        tab2$selection_rate <- scales::percent(tab2$selection_rate, accuracy = .1)
+        majority_race_percent <- tab2 %>% 
+          filter(Race == input$race_majority) %>% 
+          mutate(majority_selected = total_selected/total_pending) %>% 
+          select(majority_selected) %>% 
+          pull()
+        
+        race_tab <- tab2 %>% mutate(impact_ratio = ((total_selected/total_pending)/majority_race_percent))
+        race_tab$impact_ratio <- round(race_tab$impact_ratio, digits = 2)  
+        
+        race_tab <- race_tab %>% arrange(desc(total_selected))
+        race_tab <- race_tab %>% adorn_totals(where = "row")
         race_tab$impact_ratio[race_tab$Race == "Total"] <- NA
         
-        datatable(race_tab, options = list(dom = 't'))
+        datatable(race_tab, options = list(dom = 't'), rownames = FALSE)
     }, server = TRUE)
-    
+
+#Gender impact table__________________________    
     output$x3 <- DT::renderDataTable({
       req(input$upload)
       req(input$x1_rows_selected)
@@ -111,29 +123,42 @@ shinyServer(function(input, output) {
       portal_df <- portal_df %>% filter(Status == "Pending")
       portal_df <- portal_df %>% arrange(desc(`Perc BASELINE`))
       
-      s <-  input$x1_rows_selected
-      tab1 <- portal_df[s,]
+      
+      total_tab <- portal_df %>% 
+        group_by(Gender) %>% 
+        summarise(total_pending = n()) 
+      
+      #calculate total number of selected candidates
+      selected <-  input$x1_rows_selected
+      tab1 <- portal_df[selected,]
       gender_tab <- tab1 %>% 
-        tabyl(Gender) %>%
-        arrange(desc(n)) %>% 
-        adorn_pct_formatting(digits = 0) %>% 
-        adorn_totals("row")
+        group_by(Gender) %>% 
+        summarise(total_selected = n())
       
-      majority_gender_total <- gender_tab %>% 
-        filter(Gender == input$gender_majority)
-      majority_gender_total <- majority_gender_total %>% select(n) %>% pull()
-      totat_total <- gender_tab %>% 
-        filter(Gender == "Total")
-      total_total <- totat_total %>% select(n) %>% pull()
+      tab2 <- left_join(total_tab, gender_tab, by = "Gender") %>% 
+        select(Gender, total_selected, total_pending) 
+      tab2$total_selected <- ifelse(is.na(tab2$total_selected), 0, tab2$total_selected)
       
-      gender_tab <- gender_tab %>% 
-        mutate(impact_ratio = ((n/total_total)/(majority_gender_total/total_total)))
-      gender_tab <- gender_tab %>% 
-        mutate_at(vars(starts_with("impact")), round, 2)
+      tab2 <- tab2 %>% mutate(selection_rate = (total_selected/total_pending))
+      
+      tab2$selection_rate <- scales::percent(tab2$selection_rate, accuracy = .1)
+      majority_gender_percent <- tab2 %>% 
+        filter(Gender == input$gender_majority) %>% 
+        mutate(majority_selected = total_selected/total_pending) %>% 
+        select(majority_selected) %>% 
+        pull()
+      
+      gender_tab <- tab2 %>% mutate(impact_ratio = ((total_selected/total_pending)/majority_gender_percent))
+      gender_tab$impact_ratio <- round(gender_tab$impact_ratio, digits = 2)  
+      
+      gender_tab <- gender_tab %>% arrange(desc(total_selected))
+      gender_tab <- gender_tab %>% adorn_totals(where = "row")
       gender_tab$impact_ratio[gender_tab$Gender == "Total"] <- NA
       
-      datatable(gender_tab, options = list(dom = 't'))
+      datatable(gender_tab, options = list(dom = 't'), rownames = FALSE)
     }, server = TRUE)
+
+#File download_______________________________
     
     output$Candidate_download <- downloadHandler(
       
