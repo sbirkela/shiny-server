@@ -18,6 +18,9 @@ shinyServer(function(input, output) {
     names(raw_df) <- toupper(names(raw_df))
     
     #names(raw_df)
+    names(raw_df) <- toupper(names(raw_df))
+    
+    #names(raw_df)
     
     portal_df <- raw_df %>% select(`FIRST NAME`, `LAST NAME`, `STATUS`, `PERC BASELINE`, 
                                    `GENDER`, 
@@ -73,13 +76,14 @@ shinyServer(function(input, output) {
     portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "Yes, I am Hispanic or Latino", "Hispanic or Latino")) #if original race was NA and yes to Eth_hispanic then code as Hispanic or Latino
     portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "No, not of Hispanic or Latino", "Choose not to identify")) #if original race was NA and no to Eth_hispanic then code as Choose not to identify
     portal_df <- portal_df %>% mutate(Race = replace(Race, is.na(Race), "Choose not to identify")) #if both Race and Ethnic_hisp are NA then code as Choose not to identify
-    portal_df <- portal_df %>% mutate(Gender = replace(GENDER, is.na(GENDER), "Choose not to identify"))
+    portal_df <- portal_df %>% mutate(GENDER = replace(GENDER, is.na(GENDER), "Choose not to identify"))
     portal_df <- portal_df %>% select(-Eth_hispanic)
     portal_df <- portal_df %>% rename(`First Name` = `FIRST NAME`, 
                                       `Last Name` = `LAST NAME`,
                                       `Status` = `STATUS`,
                                       `Perc BASELINE` = `PERC BASELINE`,
-                                      `Notes` = `RAW NOTES`)
+                                      `Notes` = `RAW NOTES`,
+                                      `Gender` = `GENDER`)
     
     #Only select with status of pending and sort by BASELINE
     
@@ -142,7 +146,6 @@ shinyServer(function(input, output) {
       names(raw_df) <- toupper(names(raw_df))
       
       #names(raw_df)
-      
       portal_df <- raw_df %>% select(`FIRST NAME`, `LAST NAME`, `STATUS`, `PERC BASELINE`, 
                                      `GENDER`, 
                                      `ETHNICITYARE YOU OF HISPANIC OR LATINO ORIGIN?`,
@@ -155,13 +158,14 @@ shinyServer(function(input, output) {
       portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "Yes, I am Hispanic or Latino", "Hispanic or Latino")) #if original race was NA and yes to Eth_hispanic then code as Hispanic or Latino
       portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "No, not of Hispanic or Latino", "Choose not to identify")) #if original race was NA and no to Eth_hispanic then code as Choose not to identify
       portal_df <- portal_df %>% mutate(Race = replace(Race, is.na(Race), "Choose not to identify")) #if both Race and Ethnic_hisp are NA then code as Choose not to identify
-      portal_df <- portal_df %>% mutate(Gender = replace(GENDER, is.na(GENDER), "Choose not to identify"))
+      portal_df <- portal_df %>% mutate(GENDER = replace(GENDER, is.na(GENDER), "Choose not to identify"))
       portal_df <- portal_df %>% select(-Eth_hispanic)
       portal_df <- portal_df %>% rename(`First Name` = `FIRST NAME`, 
                                         `Last Name` = `LAST NAME`,
                                         `Status` = `STATUS`,
                                         `Perc BASELINE` = `PERC BASELINE`,
-                                        `Notes` = `RAW NOTES`)
+                                        `Notes` = `RAW NOTES`,
+                                        `Gender` = `GENDER`)
       
       
       #Only select with status of pending and sort by BASELINE
@@ -250,13 +254,14 @@ shinyServer(function(input, output) {
       portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "Yes, I am Hispanic or Latino", "Hispanic or Latino")) #if original race was NA and yes to Eth_hispanic then code as Hispanic or Latino
       portal_df <- portal_df %>% mutate(Race = replace(Race, Race == "No, not of Hispanic or Latino", "Choose not to identify")) #if original race was NA and no to Eth_hispanic then code as Choose not to identify
       portal_df <- portal_df %>% mutate(Race = replace(Race, is.na(Race), "Choose not to identify")) #if both Race and Ethnic_hisp are NA then code as Choose not to identify
-      portal_df <- portal_df %>% mutate(Gender = replace(GENDER, is.na(GENDER), "Choose not to identify"))
+      portal_df <- portal_df %>% mutate(GENDER = replace(GENDER, is.na(GENDER), "Choose not to identify"))
       portal_df <- portal_df %>% select(-Eth_hispanic)
       portal_df <- portal_df %>% rename(`First Name` = `FIRST NAME`, 
                                         `Last Name` = `LAST NAME`,
                                         `Status` = `STATUS`,
                                         `Perc BASELINE` = `PERC BASELINE`,
-                                        `Notes` = `RAW NOTES`)
+                                        `Notes` = `RAW NOTES`,
+                                        `Gender` = `GENDER`)
       
       
       #Only select with status of pending and sort by BASELINE
