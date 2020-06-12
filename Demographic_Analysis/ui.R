@@ -33,7 +33,7 @@ body <- dashboardBody(
             strong("Pending Applicant Table"),
             br(),
             fluidRow(
-              column(10, DT::dataTableOutput("x1"))),
+              column(12, DT::dataTableOutput("x1"))),
             br(),
             strong("Applicant Analysis by Race"),
             br(),
