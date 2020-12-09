@@ -10,22 +10,23 @@ sidebar <- dashboardSidebar(
   sidebarMenu(
    
     menuItem("User Input", tabName = "activity"),
-    uiOutput("status"),
-    uiOutput("selection_value"),
-    uiOutput("band_size"),
-    uiOutput("race_band"),
-    uiOutput("gender_band"),
-    uiOutput("race_majority"),
-    uiOutput("gender_majority"),
+    uiOutput("status", tabname = "activity"),
+    uiOutput("selection_value", tabname = "activity"),
+    uiOutput("band_size", tabname = "activity"),
+    uiOutput("race_band", tabname = "activity"),
+    uiOutput("gender_band", tabname = "activity"),
+    uiOutput("race_majority", tabname = "activity"),
+    uiOutput("gender_majority", tabname = "activity"),
     fileInput("upload", "Upload portal file", accept = c(".xlsx", ".xls"))
+    #actionButton("Instructions", label = "Click for instructions", tabName = "instructions")
 
   )
 )
 
 body <- dashboardBody(
-  bsModal(id = "clientData", title = "Client Data", 
-          trigger = "showData", 
-          verbatimTextOutput("clientdataText")),
+#  bsModal(id = "clientData", title = "Client Data", 
+ #         trigger = "showData", 
+#          verbatimTextOutput("clientdataText")),
   tabItems(
     tabItem(tabName = "activity",
             strong("Pending Applicant Table"),
