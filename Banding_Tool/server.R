@@ -11,6 +11,8 @@ library(scales)
 shinyServer(function(input, output) {
   
 
+  
+  
   output$status <- renderUI({
     req(input$upload)
     raw_df <- read_xlsx(input$upload$datapath)
@@ -26,7 +28,7 @@ shinyServer(function(input, output) {
   
   output$band_size <- renderUI({
     req(input$upload)
-    numericInput("band_size", "Band Width", value = 0, min = 0, max = 100, step = 1)
+    numericInput("band_size", "Band Width", value = 10, min = 0, max = 100, step = 1)
   }) 
   
   output$race_band <- renderUI({
@@ -88,9 +90,11 @@ shinyServer(function(input, output) {
     portal_df <- portal_df %>% mutate(Race = replace(Race, is.na(Race), "Choose not to identify")) #if both Race and Ethnic_hisp are NA then code as Choose not to identify
     portal_df <- portal_df %>% mutate(GENDER = replace(GENDER, is.na(GENDER), "Choose not to identify"))
     portal_df <- portal_df %>% select(Race)
-    #menuItem("User input", tabName = "activity")
+    race_maj_choices <- unique(portal_df$Race)
+    race_maj_choices <- sort(race_maj_choices, decreasing = TRUE)
     selectInput("race_majority", label = "Select race comparison group",
-                choices= unique(portal_df$Race))
+               choices= race_maj_choices)
+ 
   })
   
   
@@ -131,8 +135,6 @@ shinyServer(function(input, output) {
                                       `BASELINE Score` = `PERC BASELINE`,
                                       `Notes` = `RAW NOTES`,
                                       `Gender` = `GENDER`)
-    
-    #Only select with status of pending and sort by BASELINE
     
     #Only select with status of pending and sort by BASELINE
     
@@ -373,3 +375,7 @@ shinyServer(function(input, output) {
   )
   
 })
+
+
+
+
