@@ -143,7 +143,7 @@ shinyServer(function(input, output) {
 
     topdown_selection <- which(portal_df$`BASELINE Score` >= input$selection_value)
     banded_min <- input$selection_value - input$band_size
-    banded_selection <- which(portal_df$`BASELINE Score` >= banded_min & (portal_df$Race %in% input$race_band | portal_df$Gender %in% input$gender_band))
+    banded_selection <- which((portal_df$`BASELINE Score` >= banded_min & portal_df$`BASELINE Score` < input$selection_value) & (portal_df$Race %in% input$race_band | portal_df$Gender %in% input$gender_band))
     final_selection <- c(topdown_selection, banded_selection)
     datatable(portal_df, selection = list(mode = 'multiple', selected = final_selection),
               options = list(pageLength = 25))
